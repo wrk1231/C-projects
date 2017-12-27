@@ -1,0 +1,48 @@
+
+Gurobi 7.5.2 (mac64) logging started Tue Nov 28 18:24:55 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 2854 rows, 3798 columns and 18950 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 1904 continuous, 1894 integer (1894 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 5e+00]
+  Objective range  [1e-323, 5e-03]
+  QObjective range [1e-03, 6e+01]
+  Bounds range     [1e+00, 1e+03]
+  RHS range        [1e-05, 1e+00]
+Found heuristic solution: objective 0.0543344
+Presolve removed 2840 rows and 2839 columns
+Presolve time: 0.03s
+Presolved: 14 rows, 959 columns, 12322 nonzeros
+Presolved model has 957 quadratic objective terms
+Found heuristic solution: objective 0.0327393
+Variable types: 958 continuous, 1 integer (1 binary)
+
+Root relaxation: objective -2.000464e-03, 403 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0020005   -0.00200  0.00%     -    0s
+
+Explored 0 nodes (403 simplex iterations) in 0.08 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00200046 0.0327393 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.000463934208e-03, best bound -2.000463934208e-03, gap 0.0000%
+
+Gurobi 7.5.2 (mac64) logging started Tue Nov 28 21:37:31 2017
+
+Academic license - for non-commercial use only
+
+Gurobi 7.5.2 (mac64) logging started Tue Nov 28 21:41:35 2017
+
+Academic license - for non-commercial use only
+
+Gurobi 7.5.2 (mac64) logging started Tue Nov 28 21:47:22 2017
+
+Academic license - for non-commercial use only

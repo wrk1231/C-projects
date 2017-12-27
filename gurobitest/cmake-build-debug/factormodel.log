@@ -1,0 +1,3748 @@
+
+Gurobi 7.5.1 (mac64) logging started Sat Nov 25 14:00:13 2017
+
+Academic license - for non-commercial use only
+Optimize a model with 3 rows, 9 columns and 23 nonzeros
+Model has 10 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [3e-01, 4e+00]
+  Objective range  [4e-02, 3e+00]
+  QObjective range [4e-01, 4e+02]
+  Bounds range     [3e-01, 1e+02]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 3 rows, 9 columns, 23 nonzeros
+Presolved model has 10 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ Free vars  : 1
+ AA' NZ     : 5.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.99995249e+06 -7.22917308e+06  5.00e+03 5.80e+02  1.40e+06     0s
+   1   1.68418932e+03 -4.27872326e+05  4.55e+01 5.28e+00  3.31e+04     0s
+   2   9.70883473e+02 -3.51696050e+04  7.70e-01 8.92e-02  2.10e+03     0s
+   3   9.38847164e+02 -2.56166563e+03  6.85e-02 7.94e-03  1.95e+02     0s
+   4   7.60944118e+02 -7.48038258e+02  2.14e-02 2.48e-03  8.40e+01     0s
+   5   4.22852894e+02 -2.76436944e+02  2.74e-03 3.18e-04  3.89e+01     0s
+   6   3.58469065e+02  3.44162225e+02  7.67e-06 8.89e-07  7.95e-01     0s
+   7   3.49734922e+02  3.48981556e+02  2.77e-07 3.21e-08  4.19e-02     0s
+   8   3.49207576e+02  3.49188494e+02  2.03e-11 2.27e-13  1.06e-03     0s
+   9   3.49190035e+02  3.49190011e+02  1.85e-10 6.50e-14  1.36e-06     0s
+  10   3.49190013e+02  3.49190012e+02  2.38e-10 2.27e-13  1.36e-09     0s
+
+Barrier solved model in 10 iterations and 0.06 seconds
+Optimal objective 3.49190013e+02
+
+
+Gurobi 7.5.1 (mac64) logging started Sat Nov 25 14:09:22 2017
+
+Academic license - for non-commercial use only
+Optimize a model with 3 rows, 9 columns and 23 nonzeros
+Model has 10 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [3e-01, 4e+00]
+  Objective range  [4e-02, 3e+00]
+  QObjective range [4e-01, 4e+02]
+  Bounds range     [3e-01, 1e+02]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.01s
+Presolved: 3 rows, 9 columns, 23 nonzeros
+Presolved model has 10 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ Free vars  : 1
+ AA' NZ     : 5.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.99995249e+06 -7.22917308e+06  5.00e+03 5.80e+02  1.40e+06     0s
+   1   1.68418932e+03 -4.27872326e+05  4.55e+01 5.28e+00  3.31e+04     0s
+   2   9.70883473e+02 -3.51696050e+04  7.70e-01 8.92e-02  2.10e+03     0s
+   3   9.38847164e+02 -2.56166563e+03  6.85e-02 7.94e-03  1.95e+02     0s
+   4   7.60944118e+02 -7.48038258e+02  2.14e-02 2.48e-03  8.40e+01     0s
+   5   4.22852894e+02 -2.76436944e+02  2.74e-03 3.18e-04  3.89e+01     0s
+   6   3.58469065e+02  3.44162225e+02  7.67e-06 8.89e-07  7.95e-01     0s
+   7   3.49734922e+02  3.48981556e+02  2.77e-07 3.21e-08  4.19e-02     0s
+   8   3.49207576e+02  3.49188494e+02  2.03e-11 2.27e-13  1.06e-03     0s
+   9   3.49190035e+02  3.49190011e+02  1.85e-10 6.50e-14  1.36e-06     0s
+  10   3.49190013e+02  3.49190012e+02  2.38e-10 2.27e-13  1.36e-09     0s
+
+Barrier solved model in 10 iterations and 0.05 seconds
+Optimal objective 3.49190013e+02
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 16:57:01 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.51994208e+08 -2.52003684e+08  3.55e+05 9.93e+02  9.92e+05     0s
+   1   9.91981833e+05 -9.99475432e+05  1.53e+04 4.29e+01  4.33e+04     0s
+   2   9.86644559e+03 -1.75673683e+04  5.97e+02 1.67e+00  1.79e+03     0s
+   3   9.20693240e-01 -7.64680887e+03  3.74e+00 1.05e-02  1.52e+01     0s
+   4  -1.02412777e-03 -4.25344568e+03  3.00e-01 8.38e-04  3.03e+00     0s
+   5  -5.94152170e-04 -4.46747379e+02  3.00e-07 8.38e-10  2.36e-01     0s
+   6  -5.94163168e-04 -4.66613504e-01  1.29e-11 1.38e-12  2.46e-04     0s
+   7  -6.01596796e-04 -2.03284330e-02  5.47e-13 5.79e-14  1.04e-05     0s
+   8  -9.98226496e-04 -1.99297570e-02  5.09e-13 5.39e-14  1.00e-05     0s
+   9  -1.05773726e-03 -7.41149944e-03  2.09e-14 2.46e-15  3.35e-06     0s
+  10  -1.61052881e-03 -3.95002011e-03  2.08e-16 1.10e-17  1.24e-06     0s
+  11  -1.88169507e-03 -2.61513032e-03  3.33e-16 1.84e-17  3.87e-07     0s
+  12  -2.00461011e-03 -2.27703971e-03  8.33e-17 5.10e-18  1.44e-07     0s
+  13  -2.06361023e-03 -2.10987255e-03  8.33e-17 5.10e-18  2.44e-08     0s
+  14  -2.07805581e-03 -2.08079210e-03  9.71e-17 4.55e-18  1.44e-09     0s
+  15  -2.07919763e-03 -2.07921810e-03  3.80e-18 1.69e-17  1.08e-11     0s
+  16  -2.07920992e-03 -2.07921057e-03  2.78e-17 1.03e-17  3.46e-13     0s
+
+Barrier solved model in 16 iterations and 0.02 seconds
+Optimal objective -2.07920992e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 17:23:40 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.51994214e+08 -2.52003813e+08  3.55e+05 9.99e+02  1.00e+06     0s
+   1   2.53442700e+02 -7.83285195e+03  3.57e+02 1.00e+00  1.01e+03     0s
+   2   2.69735677e-04 -7.47417838e+03  1.87e+00 5.25e-03  9.16e+00     0s
+   3  -7.13197852e-04 -2.38404140e+03  7.52e-02 2.11e-04  1.44e+00     0s
+   4  -5.84877244e-04 -8.80446665e+01  7.52e-08 2.11e-10  4.65e-02     0s
+   5  -5.84981887e-04 -1.04964111e-01  1.40e-11 3.08e-13  5.51e-05     0s
+   6  -6.62011303e-04 -1.70704029e-02  2.11e-12 4.67e-14  8.66e-06     0s
+   7  -9.99487944e-04 -1.58996070e-02  1.89e-12 4.18e-14  7.87e-06     0s
+   8  -9.61034373e-04 -1.06684652e-02  1.14e-12 2.53e-14  5.13e-06     0s
+   9  -1.34789694e-03 -4.38044341e-03  6.61e-14 1.46e-15  1.60e-06     0s
+  10  -1.78809281e-03 -3.06256951e-03  1.58e-15 3.46e-17  6.73e-07     0s
+  11  -1.92269587e-03 -2.56489724e-03  5.55e-17 6.07e-18  3.39e-07     0s
+  12  -2.04510379e-03 -2.14276690e-03  1.94e-16 5.08e-18  5.16e-08     0s
+  13  -2.07534006e-03 -2.08492114e-03  8.33e-17 3.79e-18  5.06e-09     0s
+  14  -2.07913142e-03 -2.07928166e-03  2.78e-17 2.10e-17  7.93e-11     0s
+  15  -2.07920824e-03 -2.07921141e-03  5.11e-18 3.85e-18  1.67e-12     0s
+
+Barrier solved model in 15 iterations and 0.02 seconds
+Optimal objective -2.07920824e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 17:27:18 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.02s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.51994214e+08 -2.52003813e+08  3.55e+05 9.99e+02  1.00e+06     0s
+   1   2.53442700e+02 -7.83285195e+03  3.57e+02 1.00e+00  1.01e+03     0s
+   2   2.69735677e-04 -7.47417838e+03  1.87e+00 5.25e-03  9.16e+00     0s
+   3  -7.13197852e-04 -2.38404140e+03  7.52e-02 2.11e-04  1.44e+00     0s
+   4  -5.84877244e-04 -8.80446665e+01  7.52e-08 2.12e-10  4.65e-02     0s
+   5  -5.84981887e-04 -1.04964111e-01  1.40e-11 3.91e-13  5.51e-05     0s
+   6  -6.62011303e-04 -1.70704029e-02  2.11e-12 5.92e-14  8.66e-06     0s
+   7  -9.99487944e-04 -1.58996070e-02  1.89e-12 5.29e-14  7.87e-06     0s
+   8  -9.61034373e-04 -1.06684652e-02  1.14e-12 3.21e-14  5.13e-06     0s
+   9  -1.34789694e-03 -4.38044341e-03  6.63e-14 1.86e-15  1.60e-06     0s
+  10  -1.78809281e-03 -3.06256951e-03  1.50e-15 4.62e-17  6.73e-07     0s
+  11  -1.92269587e-03 -2.56489724e-03  5.55e-17 4.30e-18  3.39e-07     0s
+  12  -2.04510379e-03 -2.14276690e-03  5.55e-17 8.46e-18  5.16e-08     0s
+  13  -2.07534006e-03 -2.08492114e-03  8.33e-17 8.13e-18  5.06e-09     0s
+  14  -2.07913142e-03 -2.07928166e-03  2.08e-16 1.66e-17  7.93e-11     0s
+  15  -2.07920824e-03 -2.07921141e-03  1.11e-16 5.83e-18  1.67e-12     0s
+
+Barrier solved model in 15 iterations and 0.03 seconds
+Optimal objective -2.07920824e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 17:33:02 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-04, 4e+00]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.59792755e+08 -2.59801862e+08  2.89e+05 1.00e+03  1.00e+06     0s
+   1   2.71459494e+02 -2.65594156e+03  2.99e+02 1.03e+00  1.04e+03     0s
+   2  -1.66414502e-02 -2.36769622e+03  8.56e-01 2.96e-03  4.21e+00     0s
+   3  -2.12219889e-03 -1.08673513e+03  6.20e-02 2.15e-04  7.51e-01     0s
+   4  -7.43112413e-04 -9.89537403e+01  5.43e-04 1.88e-06  5.29e-02     0s
+   5  -7.30598242e-04 -1.18658754e-01  1.09e-07 3.76e-10  6.23e-05     0s
+   6  -7.73617673e-04 -1.91971768e-02  1.64e-08 5.67e-11  9.73e-06     0s
+   7  -8.38022330e-04 -1.87157102e-02  1.59e-08 5.50e-11  9.44e-06     0s
+   8  -7.85419553e-04 -1.77817925e-02  1.45e-08 5.04e-11  8.97e-06     0s
+   9  -1.13788782e-03 -1.62179117e-02  1.17e-08 4.06e-11  7.96e-06     0s
+  10  -1.22362321e-03 -7.61548290e-03  1.93e-09 6.66e-12  3.37e-06     0s
+  11  -1.88190081e-03 -6.07190318e-03  1.87e-15 1.51e-16  2.21e-06     0s
+  12  -2.20260491e-03 -4.35860189e-03  6.38e-16 6.51e-17  1.14e-06     0s
+  13  -2.40765352e-03 -3.62296800e-03  7.63e-17 9.89e-17  6.42e-07     0s
+  14  -2.62108866e-03 -3.06927099e-03  4.86e-17 2.40e-17  2.37e-07     0s
+  15  -2.72900110e-03 -2.89650258e-03  1.39e-17 3.33e-17  8.84e-08     0s
+  16  -2.78221722e-03 -2.81918333e-03  5.55e-17 2.61e-17  1.95e-08     0s
+  17  -2.79746632e-03 -2.79913541e-03  5.55e-17 6.47e-17  8.81e-10     0s
+  18  -2.79825866e-03 -2.79826204e-03  4.16e-17 2.21e-17  1.79e-12     0s
+
+Barrier solved model in 18 iterations and 0.03 seconds
+Optimal objective -2.79825866e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 17:35:01 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [9e-04, 6e+00]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.47768316e+08 -2.47776472e+08  2.17e+05 9.99e+02  1.00e+06     0s
+   1   2.58974860e+02 -3.40602083e+03  2.24e+02 1.03e+00  1.03e+03     0s
+   2  -1.34645032e-02 -3.12451029e+03  7.65e-01 3.52e-03  5.16e+00     0s
+   3  -1.47154157e-03 -1.38218167e+03  3.44e-02 1.58e-04  8.61e-01     0s
+   4  -7.52018773e-04 -9.39300560e+01  4.60e-04 2.12e-06  5.00e-02     0s
+   5  -7.41629020e-04 -1.15505214e-01  1.05e-07 4.85e-10  6.06e-05     0s
+   6  -7.93726372e-04 -2.17085393e-02  1.85e-08 8.53e-11  1.10e-05     0s
+   7  -1.12938066e-03 -2.13079227e-02  1.74e-08 8.00e-11  1.07e-05     0s
+   8  -1.21426590e-03 -1.95328162e-02  1.13e-08 5.22e-11  9.67e-06     0s
+   9  -1.19244213e-03 -8.27988246e-03  1.09e-09 5.02e-12  3.74e-06     0s
+  10  -1.80870422e-03 -6.40783993e-03  1.98e-11 9.11e-14  2.43e-06     0s
+  11  -2.11652834e-03 -4.02795520e-03  6.08e-12 2.79e-14  1.01e-06     0s
+  12  -2.36624376e-03 -3.24675944e-03  1.84e-12 8.46e-15  4.65e-07     0s
+  13  -2.50750286e-03 -2.99654273e-03  7.85e-13 3.61e-15  2.58e-07     0s
+  14  -2.62525518e-03 -2.82529478e-03  2.08e-17 1.38e-16  1.06e-07     0s
+  15  -2.69701371e-03 -2.71522154e-03  2.78e-17 1.55e-17  9.61e-09     0s
+  16  -2.70487600e-03 -2.70517646e-03  2.78e-17 2.59e-17  1.59e-10     0s
+  17  -2.70501599e-03 -2.70501722e-03  1.04e-17 5.81e-17  6.48e-13     0s
+
+Barrier solved model in 17 iterations and 0.02 seconds
+Optimal objective -2.70501599e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 17:36:00 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 11 rows, 957 columns and 10427 nonzeros
+Model has 957 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 0 rows and 10 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 947 columns, 10417 nonzeros
+Presolved model has 947 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.51994214e+08 -2.52003813e+08  3.55e+05 9.99e+02  1.00e+06     0s
+   1   2.53442700e+02 -7.83285195e+03  3.57e+02 1.00e+00  1.01e+03     0s
+   2   2.69735677e-04 -7.47417838e+03  1.87e+00 5.25e-03  9.16e+00     0s
+   3  -7.13197852e-04 -2.38404140e+03  7.52e-02 2.11e-04  1.44e+00     0s
+   4  -5.84877244e-04 -8.80446665e+01  7.52e-08 2.12e-10  4.65e-02     0s
+   5  -5.84981887e-04 -1.04964111e-01  1.40e-11 2.45e-13  5.51e-05     0s
+   6  -6.62011303e-04 -1.70704029e-02  2.11e-12 3.71e-14  8.66e-06     0s
+   7  -9.99487944e-04 -1.58996070e-02  1.89e-12 3.32e-14  7.87e-06     0s
+   8  -9.61034373e-04 -1.06684652e-02  1.14e-12 2.01e-14  5.13e-06     0s
+   9  -1.34789694e-03 -4.38044341e-03  6.62e-14 1.16e-15  1.60e-06     0s
+  10  -1.78809281e-03 -3.06256951e-03  1.25e-15 2.54e-17  6.73e-07     0s
+  11  -1.92269587e-03 -2.56489724e-03  1.11e-16 5.10e-18  3.39e-07     0s
+  12  -2.04510379e-03 -2.14276690e-03  6.53e-18 2.43e-17  5.16e-08     0s
+  13  -2.07534006e-03 -2.08492114e-03  1.53e-16 2.73e-17  5.06e-09     0s
+  14  -2.07913142e-03 -2.07928166e-03  1.39e-16 9.87e-18  7.93e-11     0s
+  15  -2.07920824e-03 -2.07921141e-03  6.15e-18 5.48e-18  1.67e-12     0s
+
+Barrier solved model in 15 iterations and 0.02 seconds
+Optimal objective -2.07920824e-03
+
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:32:49 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 2e+02]
+Presolve removed 948 rows and 1904 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:41:10 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 2e-02]
+  RHS range        [1e+00, 3e+02]
+Presolve removed 948 rows and 1904 columns
+Presolve time: 0.01s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:48:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:49:52 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:50:25 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.15 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:52:25 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.15 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 18:56:28 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.04s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  192   185                      -0.0020095   -0.00208  3.68%   7.3    0s
+H  231   229                      -0.0020230   -0.00208  2.99%   7.0    0s
+H  262   264                      -0.0020324   -0.00208  2.51%   7.0    0s
+H  276   278                      -0.0020384   -0.00208  2.21%   6.9    0s
+H  317   318                      -0.0020532   -0.00208  1.47%   6.7    1s
+H  361   353                      -0.0020583   -0.00208  1.22%   6.7    1s
+H  405   388                      -0.0020606   -0.00208  1.11%   6.7    1s
+H  451   422                      -0.0020642   -0.00208  0.93%   6.6    1s
+H  494   436                      -0.0020653   -0.00208  0.88%   6.7    1s
+H  554   484                      -0.0020671   -0.00208  0.79%   6.6    1s
+H  643   466                      -0.0020717   -0.00208  0.57%   6.4    1s
+H  692   490                      -0.0020730   -0.00208  0.50%   6.2    1s
+H  739   485                      -0.0020747   -0.00208  0.42%   6.2    1s
+H 1205   622                      -0.0020767   -0.00208  0.32%   7.8    3s
+H 1357   522                      -0.0020783   -0.00208  0.24%   7.5    4s
+H 1387   416                      -0.0020794   -0.00208  0.19%   7.5    4s
+H 1606   292                      -0.0020812   -0.00208  0.11%   7.0    4s
+  1607   295   -0.00208   88   90   -0.00208   -0.00208  0.11%   7.0    5s
+H 1633   256                      -0.0020813   -0.00208  0.10%   6.9    5s
+H 1667   256                      -0.0020815   -0.00208  0.09%   7.1    5s
+H 1787   239                      -0.0020815   -0.00208  0.09%   6.8    6s
+H 1858   242                      -0.0020817   -0.00208  0.09%   6.7    6s
+* 1900   144             188      -0.0020818   -0.00208  0.08%   6.7    7s
+H 2070   213                      -0.0020818   -0.00208  0.08%   6.5    7s
+  2536   319     cutoff  118        -0.00208   -0.00208  0.08%   6.1   10s
+H 3023   440                      -0.0020818   -0.00208  0.08%   5.8   11s
+  4448   810     cutoff  139        -0.00208   -0.00208  0.07%   5.3   15s
+  7486  2314     cutoff  167        -0.00208   -0.00208  0.07%   5.7   20s
+ 10306  3732   -0.00208  154   24   -0.00208   -0.00208  0.07%   5.8   25s
+ 13320  5115   -0.00208  180   12   -0.00208   -0.00208  0.07%   5.9   30s
+ 16189  6404   -0.00208  184   10   -0.00208   -0.00208  0.07%   5.8   36s
+H16221  6360                      -0.0020818   -0.00208  0.07%   5.8   36s
+ 18378  7401   -0.00208  171   15   -0.00208   -0.00208  0.07%   5.8   40s
+ 20545  8371   -0.00208  180   12   -0.00208   -0.00208  0.07%   5.9   47s
+ 22654  9364   -0.00208  186   10   -0.00208   -0.00208  0.07%   5.9   50s
+ 25740 10772   -0.00208  174    9   -0.00208   -0.00208  0.07%   5.9   55s
+ 28150 11704   -0.00208  149   36   -0.00208   -0.00208  0.07%   5.9   60s
+ 31712 13174     cutoff  173        -0.00208   -0.00208  0.07%   5.9   65s
+ 34270 14402   -0.00208  175   11   -0.00208   -0.00208  0.07%   5.9   71s
+ 35806 15129   -0.00208  176   11   -0.00208   -0.00208  0.07%   5.9   75s
+ 37932 16177   -0.00208  179   13   -0.00208   -0.00208  0.07%   5.9   80s
+ 39870 17124   -0.00208  167   20   -0.00208   -0.00208  0.07%   6.0   85s
+ 41886 18097   -0.00208  169   10   -0.00208   -0.00208  0.07%   6.0   90s
+ 43410 18833     cutoff  178        -0.00208   -0.00208  0.07%   6.0   95s
+ 45228 19749     cutoff  184        -0.00208   -0.00208  0.07%   6.0  101s
+ 46618 20405   -0.00208  166   17   -0.00208   -0.00208  0.07%   6.0  105s
+ 48531 21297   -0.00208  165   21   -0.00208   -0.00208  0.07%   6.0  110s
+ 51160 22529   -0.00208  177   12   -0.00208   -0.00208  0.07%   6.1  115s
+ 54444 24109   -0.00208  163   25   -0.00208   -0.00208  0.07%   6.1  120s
+ 57573 25724   -0.00208  187    8   -0.00208   -0.00208  0.07%   6.1  125s
+ 60972 27454   -0.00208  159   26   -0.00208   -0.00208  0.07%   6.1  130s
+ 63845 28904     cutoff  182        -0.00208   -0.00208  0.07%   6.1  135s
+ 67120 30475     cutoff  191        -0.00208   -0.00208  0.07%   6.2  140s
+ 69995 31912     cutoff  187        -0.00208   -0.00208  0.07%   6.2  145s
+ 72794 33279     cutoff  191        -0.00208   -0.00208  0.07%   6.2  150s
+ 75431 34587   -0.00208  172   14   -0.00208   -0.00208  0.07%   6.2  155s
+ 78815 36337   -0.00208  160   21   -0.00208   -0.00208  0.07%   6.2  160s
+ 82092 37688   -0.00208  159   24   -0.00208   -0.00208  0.07%   6.2  165s
+ 85524 39358     cutoff  177        -0.00208   -0.00208  0.07%   6.2  170s
+ 88152 40510   -0.00208  179   12   -0.00208   -0.00208  0.07%   6.2  175s
+ 91374 42035   -0.00208  169   17   -0.00208   -0.00208  0.07%   6.2  180s
+ 94876 43763   -0.00208  188    8   -0.00208   -0.00208  0.07%   6.2  185s
+ 98753 45617     cutoff  186        -0.00208   -0.00208  0.07%   6.2  190s
+ 101430 46684     cutoff  130        -0.00208   -0.00208  0.07%   6.2  195s
+ 104250 47940   -0.00208  166   18   -0.00208   -0.00208  0.07%   6.2  200s
+ 106551 49020   -0.00208  177   12   -0.00208   -0.00208  0.07%   6.2  205s
+ 109469 50438     cutoff  182        -0.00208   -0.00208  0.07%   6.2  210s
+ 112372 51867   -0.00208  179   16   -0.00208   -0.00208  0.07%   6.2  215s
+ 114770 52943   -0.00208  179    9   -0.00208   -0.00208  0.07%   6.2  220s
+ 117709 54302   -0.00208  159   23   -0.00208   -0.00208  0.07%   6.2  225s
+ 120682 55755     cutoff  178        -0.00208   -0.00208  0.07%   6.2  230s
+ 123391 57036   -0.00208  170   13   -0.00208   -0.00208  0.07%   6.2  235s
+ 125774 58176   -0.00208  171   13   -0.00208   -0.00208  0.07%   6.2  240s
+ 128967 59797   -0.00208  162   19   -0.00208   -0.00208  0.07%   6.2  245s
+ 132352 61491   -0.00208  162   22   -0.00208   -0.00208  0.07%   6.2  251s
+ 135126 62844     cutoff  189        -0.00208   -0.00208  0.07%   6.2  255s
+ 137851 64221     cutoff  184        -0.00208   -0.00208  0.07%   6.2  260s
+ 140795 65712   -0.00208  179   12   -0.00208   -0.00208  0.07%   6.2  265s
+ 143238 66944   -0.00208  179   10   -0.00208   -0.00208  0.07%   6.2  271s
+ 144578 67614   -0.00208  174   13   -0.00208   -0.00208  0.07%   6.2  275s
+ 147494 68987   -0.00208  159   27   -0.00208   -0.00208  0.07%   6.2  280s
+ 150837 70570     cutoff  186        -0.00208   -0.00208  0.07%   6.2  285s
+ 154101 72282   -0.00208  174   15   -0.00208   -0.00208  0.07%   6.2  290s
+ 157422 73781   -0.00208  145   40   -0.00208   -0.00208  0.07%   6.2  295s
+ 160572 75148   -0.00208  148   34   -0.00208   -0.00208  0.07%   6.2  300s
+ 164514 76990   -0.00208  169   14   -0.00208   -0.00208  0.07%   6.2  305s
+ 167265 78342     cutoff  186        -0.00208   -0.00208  0.07%   6.2  310s
+ 169356 79322     cutoff  180        -0.00208   -0.00208  0.07%   6.2  315s
+ 170908 80011   -0.00208  168   13   -0.00208   -0.00208  0.07%   6.2  320s
+ 173305 81175   -0.00208  178   13   -0.00208   -0.00208  0.07%   6.2  325s
+ 175846 82426   -0.00208  164   17   -0.00208   -0.00208  0.06%   6.2  330s
+ 178058 83518   -0.00208  156   25   -0.00208   -0.00208  0.06%   6.2  336s
+ 179551 84313   -0.00208  159   28   -0.00208   -0.00208  0.06%   6.2  340s
+ 181486 85289     cutoff  195        -0.00208   -0.00208  0.06%   6.2  345s
+ 184170 86510   -0.00208  158   19   -0.00208   -0.00208  0.06%   6.2  350s
+ 187177 88023   -0.00208  180   13   -0.00208   -0.00208  0.06%   6.2  355s
+ 190350 89563     cutoff  175        -0.00208   -0.00208  0.06%   6.3  360s
+ 193122 90737   -0.00208  167   22   -0.00208   -0.00208  0.06%   6.3  365s
+ 196127 92157   -0.00208  162   22   -0.00208   -0.00208  0.06%   6.2  370s
+ 199346 93641   -0.00208  166   15   -0.00208   -0.00208  0.06%   6.2  375s
+ 202650 95163   -0.00208  176   13   -0.00208   -0.00208  0.06%   6.3  380s
+ 205390 96305   -0.00208  155   26   -0.00208   -0.00208  0.06%   6.2  385s
+ 208285 97635     cutoff  189        -0.00208   -0.00208  0.06%   6.3  390s
+ 211410 99172   -0.00208  168   17   -0.00208   -0.00208  0.06%   6.2  395s
+ 213959 100423   -0.00208  186   10   -0.00208   -0.00208  0.06%   6.2  400s
+ 216734 101827   -0.00208  165   27   -0.00208   -0.00208  0.06%   6.2  405s
+ 219197 102983   -0.00208  178   10   -0.00208   -0.00208  0.06%   6.2  410s
+ 222055 104463   -0.00208  162   19   -0.00208   -0.00208  0.06%   6.3  415s
+ 224755 105779     cutoff  174        -0.00208   -0.00208  0.06%   6.3  420s
+ 227582 107091   -0.00208  166   19   -0.00208   -0.00208  0.06%   6.3  426s
+ 229619 108071     cutoff  188        -0.00208   -0.00208  0.06%   6.3  430s
+ 231339 108956     cutoff  178        -0.00208   -0.00208  0.06%   6.3  435s
+ 233774 110173   -0.00208  170   18   -0.00208   -0.00208  0.06%   6.3  440s
+ 236285 111477     cutoff  189        -0.00208   -0.00208  0.06%   6.3  445s
+ 238622 112621   -0.00208  163   23   -0.00208   -0.00208  0.06%   6.2  450s
+ 241502 113940   -0.00208  167   22   -0.00208   -0.00208  0.06%   6.3  455s
+ 243712 115062   -0.00208  188   11   -0.00208   -0.00208  0.06%   6.3  460s
+ 247195 116843     cutoff  164        -0.00208   -0.00208  0.06%   6.3  465s
+ 250041 118074     cutoff  141        -0.00208   -0.00208  0.06%   6.3  470s
+ 253361 119528   -0.00208  191    9   -0.00208   -0.00208  0.06%   6.3  475s
+ 256552 120996   -0.00208  167   20   -0.00208   -0.00208  0.06%   6.3  480s
+ 258407 121865   -0.00208  183   11   -0.00208   -0.00208  0.06%   6.2  485s
+ 260349 122725   -0.00208  163   21   -0.00208   -0.00208  0.06%   6.3  490s
+ 262746 123894   -0.00208  167   15   -0.00208   -0.00208  0.06%   6.2  495s
+ 265196 125100   -0.00208  184   12   -0.00208   -0.00208  0.06%   6.2  500s
+ 268095 126549     cutoff  185        -0.00208   -0.00208  0.06%   6.2  505s
+ 270829 127869   -0.00208  165   17   -0.00208   -0.00208  0.06%   6.2  510s
+ 274316 129553   -0.00208  193   11   -0.00208   -0.00208  0.06%   6.2  515s
+ 277281 130977     cutoff  192        -0.00208   -0.00208  0.06%   6.3  520s
+ 279703 132219   -0.00208  185   15   -0.00208   -0.00208  0.06%   6.3  525s
+ 282433 133487   -0.00208  166   21   -0.00208   -0.00208  0.06%   6.3  530s
+ 285867 135123     cutoff  173        -0.00208   -0.00208  0.06%   6.3  535s
+ 289536 136834     cutoff  179        -0.00208   -0.00208  0.06%   6.3  540s
+ 292664 138333   -0.00208  183   13   -0.00208   -0.00208  0.06%   6.3  545s
+ 296166 139962     cutoff  188        -0.00208   -0.00208  0.06%   6.3  550s
+ 299496 141578   -0.00208  176   12   -0.00208   -0.00208  0.06%   6.3  555s
+ 302759 143209   -0.00208  174   16   -0.00208   -0.00208  0.06%   6.3  560s
+ 306708 145258   -0.00208  177   13   -0.00208   -0.00208  0.06%   6.3  565s
+ 309780 146802     cutoff  189        -0.00208   -0.00208  0.06%   6.3  570s
+ 313232 148463   -0.00208  185   10   -0.00208   -0.00208  0.06%   6.3  575s
+ 315448 149539     cutoff  186        -0.00208   -0.00208  0.06%   6.2  581s
+ 318281 150900     cutoff  188        -0.00208   -0.00208  0.06%   6.3  585s
+ 321049 152154   -0.00208  167   17   -0.00208   -0.00208  0.06%   6.3  590s
+ 324324 153799     cutoff  195        -0.00208   -0.00208  0.06%   6.3  595s
+ 327318 155277     cutoff  164        -0.00208   -0.00208  0.06%   6.3  600s
+ 330394 156723   -0.00208  173   12   -0.00208   -0.00208  0.06%   6.3  605s
+ 333903 158528   -0.00208  173   16   -0.00208   -0.00208  0.06%   6.2  610s
+ 336016 159612   -0.00208  183   13   -0.00208   -0.00208  0.06%   6.2  615s
+ 338347 160681   -0.00208  170   14   -0.00208   -0.00208  0.06%   6.3  620s
+ 341670 162165   -0.00208  168   22   -0.00208   -0.00208  0.06%   6.3  625s
+ 344730 163590   -0.00208  181   13   -0.00208   -0.00208  0.06%   6.3  630s
+ 347666 165081     cutoff  185        -0.00208   -0.00208  0.06%   6.3  635s
+ 350456 166432   -0.00208  177   16   -0.00208   -0.00208  0.06%   6.3  640s
+ 352976 167725   -0.00208  176   16   -0.00208   -0.00208  0.06%   6.3  645s
+ 355954 169219   -0.00208  193    8   -0.00208   -0.00208  0.06%   6.3  650s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:07:47 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:08:10 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  179    69                      -0.0020794   -0.00208  0.19%   7.4    0s
+H  246   105                      -0.0020803   -0.00208  0.15%   6.9    0s
+H  251   103                      -0.0020807   -0.00208  0.13%   6.8    0s
+H  282    22                      -0.0020831   -0.00208  0.01%   6.6    0s
+H  342     5                      -0.0020832   -0.00208  0.01%   9.3    1s
+H  358     5                      -0.0020832   -0.00208  0.01%   9.5    1s
+H  387     6                      -0.0020833   -0.00208  0.01%   9.4    1s
+
+Explored 401 nodes (4993 simplex iterations) in 1.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00208329 -0.00208322 -0.00208321 ... -0.0019382
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083293796269e-03, best bound -2.083434470600e-03, gap 0.0068%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:11:50 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020573   -0.00208  1.27%     -    0s
+     0     2   -0.00208    0  164   -0.00206   -0.00208  1.27%     -    0s
+H   91    87                      -0.0020707   -0.00208  0.61%   7.6    0s
+H  126   121                      -0.0020711   -0.00208  0.59%   7.5    0s
+H  186   174                      -0.0020722   -0.00208  0.54%   7.2    0s
+H  229   202                      -0.0020752   -0.00208  0.40%   7.0    0s
+H  280   188                      -0.0020776   -0.00208  0.28%   6.8    0s
+H  341    84                      -0.0020813   -0.00208  0.10%   6.4    0s
+H  390    94                      -0.0020813   -0.00208  0.10%   6.5    1s
+H  473    99                      -0.0020814   -0.00208  0.10%   6.3    1s
+H  597    72                      -0.0020818   -0.00208  0.08%   6.5    1s
+H  625    60                      -0.0020819   -0.00208  0.07%   6.7    1s
+H  714    63                      -0.0020820   -0.00208  0.07%   6.5    1s
+H  730    36                      -0.0020824   -0.00208  0.05%   6.4    1s
+H  866    15                      -0.0020829   -0.00208  0.03%   6.1    2s
+H 1052    12                      -0.0020830   -0.00208  0.02%   5.7    2s
+H 1228     3                      -0.0020834   -0.00208  0.00%   5.5    2s
+
+Explored 1254 nodes (8145 simplex iterations) in 2.54 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00208336 -0.00208296 -0.00208286 ... -0.00208132
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083356941651e-03, best bound -2.083434470600e-03, gap 0.0037%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:12:11 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.04s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.17 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  192   185                      -0.0020095   -0.00208  3.68%   7.3    0s
+H  231   229                      -0.0020230   -0.00208  2.99%   7.0    0s
+H  262   264                      -0.0020324   -0.00208  2.51%   7.0    1s
+H  276   278                      -0.0020384   -0.00208  2.21%   6.9    1s
+H  317   318                      -0.0020532   -0.00208  1.47%   6.7    1s
+H  352   351                      -0.0020677   -0.00208  0.76%   6.7    1s
+H  374   340                      -0.0020705   -0.00208  0.62%   6.7    1s
+H  548   487                      -0.0020706   -0.00208  0.62%   6.2    1s
+H  552   482                      -0.0020711   -0.00208  0.59%   6.2    1s
+H  615   485                      -0.0020728   -0.00208  0.51%   6.1    1s
+H  653   493                      -0.0020736   -0.00208  0.48%   6.1    2s
+H  658   151                      -0.0020811   -0.00208  0.11%   6.2    2s
+H 1040    74                      -0.0020812   -0.00208  0.11%   7.9    3s
+H 1115    23                      -0.0020821   -0.00208  0.07%   7.9    3s
+H 1124    12                      -0.0020830   -0.00208  0.02%   7.9    3s
+H 1350    10                      -0.0020832   -0.00208  0.01%   7.7    4s
+H 1360    10                      -0.0020832   -0.00208  0.01%   7.7    4s
+
+Explored 1361 nodes (11702 simplex iterations) in 4.70 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00208324 -0.00208319 -0.00208298 ... -0.0020706
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083236435458e-03, best bound -2.083434470600e-03, gap 0.0095%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:12:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  192   185                      -0.0020095   -0.00208  3.68%   7.3    0s
+H  231   229                      -0.0020230   -0.00208  2.99%   7.0    0s
+H  262   264                      -0.0020324   -0.00208  2.51%   7.0    0s
+H  276   278                      -0.0020384   -0.00208  2.21%   6.9    0s
+H  317   318                      -0.0020532   -0.00208  1.47%   6.7    1s
+H  361   353                      -0.0020583   -0.00208  1.22%   6.7    1s
+H  380   349                      -0.0020690   -0.00208  0.70%   6.7    1s
+H  525   460                      -0.0020694   -0.00208  0.68%   6.5    1s
+H  585   418                      -0.0020705   -0.00208  0.63%   6.3    1s
+H  679   442                      -0.0020732   -0.00208  0.50%   6.3    1s
+H  706   433                      -0.0020744   -0.00208  0.44%   6.3    1s
+H  726   443                      -0.0020747   -0.00208  0.42%   6.2    1s
+H  736    53                      -0.0020824   -0.00208  0.05%   6.2    1s
+H 1101    13                      -0.0020830   -0.00208  0.02%   7.7    3s
+H 1310    15                      -0.0020832   -0.00208  0.01%   7.2    4s
+  1430    49     cutoff  112        -0.00208   -0.00208  0.01%   7.0    5s
+  3097   120     cutoff  135        -0.00208   -0.00208  0.01%   5.0   10s
+  6322  1090   -0.00208  145    6   -0.00208   -0.00208  0.01%   5.2   15s
+  9892  2120   -0.00208  152    5   -0.00208   -0.00208  0.01%   5.2   20s
+ 13917  3171   -0.00208  146    7   -0.00208   -0.00208  0.01%   5.1   25s
+ 17079  4073     cutoff  156        -0.00208   -0.00208  0.01%   5.0   30s
+ 20732  4852   -0.00208  147    7   -0.00208   -0.00208  0.01%   5.0   35s
+ 23649  5587   -0.00208  151    7   -0.00208   -0.00208  0.01%   5.0   40s
+
+Explored 24123 nodes (120986 simplex iterations) in 40.67 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00208315 -0.00208299 -0.00208241 ... -0.00205827
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083151054525e-03, best bound -2.083355563074e-03, gap 0.0098%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:14:12 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+01]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.10 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  192   185                      -0.0020095   -0.00208  3.68%   7.3    0s
+H  231   229                      -0.0020230   -0.00208  2.99%   7.0    0s
+H  262   264                      -0.0020324   -0.00208  2.51%   7.0    0s
+H  276   278                      -0.0020384   -0.00208  2.21%   6.9    0s
+H  317   318                      -0.0020532   -0.00208  1.47%   6.7    1s
+H  361   353                      -0.0020583   -0.00208  1.22%   6.7    1s
+H  400   388                      -0.0020609   -0.00208  1.09%   6.7    1s
+H  412   371                      -0.0020679   -0.00208  0.75%   6.6    1s
+H  561   426                      -0.0020698   -0.00208  0.66%   6.2    1s
+H  589   385                      -0.0020726   -0.00208  0.52%   6.1    1s
+H  659   433                      -0.0020727   -0.00208  0.52%   6.2    1s
+H  686   454                      -0.0020728   -0.00208  0.51%   6.2    1s
+H  722    62                      -0.0020824   -0.00208  0.05%   6.1    1s
+H 1248    18                      -0.0020829   -0.00208  0.03%   7.7    4s
+  1342    31     cutoff   83        -0.00208   -0.00208  0.03%   7.4    5s
+H 1344    31                      -0.0020829   -0.00208  0.03%   7.4    5s
+  2777   252     cutoff  137        -0.00208   -0.00208  0.03%   5.4   10s
+H 2795   252                      -0.0020829   -0.00208  0.03%   5.4   10s
+  5043  1162   -0.00208  160    5   -0.00208   -0.00208  0.03%   5.0   15s
+  8645  2944   -0.00208  135   20   -0.00208   -0.00208  0.02%   5.3   20s
+ 10994  3949   -0.00208  146   11   -0.00208   -0.00208  0.02%   5.4   26s
+ 12485  4629   -0.00208  154    8   -0.00208   -0.00208  0.02%   5.5   31s
+ 14086  5323   -0.00208  167    5   -0.00208   -0.00208  0.02%   5.5   35s
+ 16152  6123     cutoff  165        -0.00208   -0.00208  0.02%   5.5   40s
+ 18747  7211   -0.00208  157    6   -0.00208   -0.00208  0.02%   5.5   45s
+ 21182  8220   -0.00208  149   10   -0.00208   -0.00208  0.02%   5.5   51s
+ 24275  9561   -0.00208  156   10   -0.00208   -0.00208  0.02%   5.5   55s
+ 28285 11212     cutoff  133        -0.00208   -0.00208  0.02%   5.4   60s
+ 32147 12949   -0.00208  150   13   -0.00208   -0.00208  0.02%   5.4   65s
+ 35820 14573   -0.00208  157    7   -0.00208   -0.00208  0.02%   5.4   70s
+ 39622 16176   -0.00208  165    7   -0.00208   -0.00208  0.02%   5.4   75s
+ 42395 17414     cutoff  161        -0.00208   -0.00208  0.02%   5.4   80s
+ 45833 18856   -0.00208  155    5   -0.00208   -0.00208  0.02%   5.4   85s
+ 49753 20574   -0.00208  162    7   -0.00208   -0.00208  0.02%   5.4   90s
+ 53586 22019     cutoff  163        -0.00208   -0.00208  0.02%   5.4   95s
+ 56831 23405     cutoff  175        -0.00208   -0.00208  0.02%   5.3  100s
+ 60492 25056   -0.00208  154    6   -0.00208   -0.00208  0.02%   5.3  105s
+ 64524 26662   -0.00208  146   18   -0.00208   -0.00208  0.02%   5.3  111s
+ 67222 27777   -0.00208  153   15   -0.00208   -0.00208  0.02%   5.3  115s
+ 70684 29251     cutoff  161        -0.00208   -0.00208  0.02%   5.3  120s
+ 74565 30733   -0.00208  158    8   -0.00208   -0.00208  0.02%   5.3  125s
+ 77317 31870     cutoff  157        -0.00208   -0.00208  0.02%   5.2  130s
+ 81313 33513     cutoff  163        -0.00208   -0.00208  0.02%   5.3  135s
+ 84646 34882     cutoff  159        -0.00208   -0.00208  0.02%   5.3  140s
+ 88576 36524   -0.00208  157    7   -0.00208   -0.00208  0.02%   5.2  145s
+ 92398 38118   -0.00208  157   10   -0.00208   -0.00208  0.02%   5.2  150s
+ 95749 39544     cutoff  156        -0.00208   -0.00208  0.02%   5.2  155s
+ 99461 41059   -0.00208  159    7   -0.00208   -0.00208  0.02%   5.2  160s
+ 102911 42470     cutoff  164        -0.00208   -0.00208  0.02%   5.2  165s
+ 106179 43786     cutoff  165        -0.00208   -0.00208  0.02%   5.2  170s
+ 109731 45240   -0.00208  145   12   -0.00208   -0.00208  0.02%   5.2  175s
+ 113470 46635   -0.00208  161    6   -0.00208   -0.00208  0.02%   5.2  180s
+ 117316 48170     cutoff  161        -0.00208   -0.00208  0.02%   5.2  185s
+ 121161 49738   -0.00208  161    5   -0.00208   -0.00208  0.02%   5.2  190s
+ 124884 51226   -0.00208  154   14   -0.00208   -0.00208  0.02%   5.2  195s
+ 128210 52422   -0.00208  157    7   -0.00208   -0.00208  0.02%   5.2  200s
+ 132003 53934     cutoff  160        -0.00208   -0.00208  0.02%   5.2  205s
+ 135534 55375     cutoff  166        -0.00208   -0.00208  0.02%   5.2  210s
+ 139213 56694   -0.00208  158    3   -0.00208   -0.00208  0.02%   5.2  215s
+ 142709 58171   -0.00208  165    6   -0.00208   -0.00208  0.02%   5.2  220s
+ 146415 59589   -0.00208  162    6   -0.00208   -0.00208  0.02%   5.2  225s
+ 150202 60863   -0.00208  162    7   -0.00208   -0.00208  0.02%   5.2  230s
+ 153985 62037   -0.00208  167    6   -0.00208   -0.00208  0.02%   5.2  235s
+ 156134 62664   -0.00208  164   11   -0.00208   -0.00208  0.02%   5.2  240s
+ 160124 63477     cutoff  162        -0.00208   -0.00208  0.02%   5.2  245s
+ 163595 64462   -0.00208  156    6   -0.00208   -0.00208  0.02%   5.2  250s
+ 167472 65965     cutoff  160        -0.00208   -0.00208  0.02%   5.2  255s
+ 171295 67394     cutoff  170        -0.00208   -0.00208  0.02%   5.2  260s
+ 175024 68366   -0.00208  154   15   -0.00208   -0.00208  0.02%   5.3  265s
+ 178359 69430   -0.00208  163    8   -0.00208   -0.00208  0.02%   5.3  270s
+ 182268 71009   -0.00208  158    5   -0.00208   -0.00208  0.02%   5.3  275s
+ 185994 72419     cutoff  162        -0.00208   -0.00208  0.02%   5.3  280s
+ 189330 73605     cutoff  166        -0.00208   -0.00208  0.02%   5.3  285s
+ 193155 74714   -0.00208  155    8   -0.00208   -0.00208  0.02%   5.3  290s
+ 196927 75752   -0.00208  148   14   -0.00208   -0.00208  0.02%   5.3  295s
+ 200112 76716   -0.00208  151   14   -0.00208   -0.00208  0.02%   5.3  300s
+ 203895 77968   -0.00208  157   15   -0.00208   -0.00208  0.02%   5.3  305s
+ 207282 78897   -0.00208  155   14   -0.00208   -0.00208  0.02%   5.3  310s
+ 211054 80276   -0.00208  151   10   -0.00208   -0.00208  0.02%   5.3  315s
+ 214318 81394     cutoff  163        -0.00208   -0.00208  0.02%   5.3  320s
+ 216951 82240   -0.00208  147   13   -0.00208   -0.00208  0.02%   5.3  325s
+ 220727 83569   -0.00208  157    9   -0.00208   -0.00208  0.02%   5.3  330s
+ 224199 84573   -0.00208  154   13   -0.00208   -0.00208  0.02%   5.3  335s
+ 227410 85535   -0.00208  149   10   -0.00208   -0.00208  0.02%   5.3  340s
+ 230707 86696   -0.00208  161    9   -0.00208   -0.00208  0.02%   5.3  345s
+ 233943 87620   -0.00208  151   13   -0.00208   -0.00208  0.02%   5.3  350s
+ 237450 88444   -0.00208  157   10   -0.00208   -0.00208  0.02%   5.3  355s
+ 240792 89384     cutoff  165        -0.00208   -0.00208  0.02%   5.3  360s
+ 244104 90213     cutoff  159        -0.00208   -0.00208  0.02%   5.3  365s
+ 247822 91488     cutoff  164        -0.00208   -0.00208  0.02%   5.3  370s
+ 251262 92446   -0.00208  158    7   -0.00208   -0.00208  0.02%   5.3  375s
+ 255183 93374     cutoff  161        -0.00208   -0.00208  0.02%   5.3  380s
+ 257911 93982   -0.00208  161   12   -0.00208   -0.00208  0.02%   5.3  385s
+ 261900 94983   -0.00208  142   15   -0.00208   -0.00208  0.02%   5.3  390s
+ 265760 95888   -0.00208  157    6   -0.00208   -0.00208  0.02%   5.3  396s
+ 268409 96593     cutoff  155        -0.00208   -0.00208  0.02%   5.3  400s
+ 272416 97526   -0.00208  152   12   -0.00208   -0.00208  0.02%   5.3  405s
+ 275685 98325   -0.00208  163   11   -0.00208   -0.00208  0.02%   5.3  410s
+ 279173 99166   -0.00208  151   11   -0.00208   -0.00208  0.02%   5.3  415s
+ 282438 100318   -0.00208  157   12   -0.00208   -0.00208  0.02%   5.3  420s
+ 286016 101282   -0.00208  153   10   -0.00208   -0.00208  0.02%   5.3  425s
+ 289224 102320     cutoff  160        -0.00208   -0.00208  0.02%   5.3  430s
+ 292021 103183   -0.00208  147   13   -0.00208   -0.00208  0.02%   5.3  435s
+ 296068 104440     cutoff  152        -0.00208   -0.00208  0.02%   5.3  440s
+ 299236 105265     cutoff  155        -0.00208   -0.00208  0.02%   5.3  445s
+ 302692 106233   -0.00208  153   16   -0.00208   -0.00208  0.02%   5.3  450s
+ 305964 107074   -0.00208  161   11   -0.00208   -0.00208  0.02%   5.3  455s
+ 307408 107380     cutoff  158        -0.00208   -0.00208  0.02%   5.3  460s
+ 309771 108044   -0.00208  152   12   -0.00208   -0.00208  0.02%   5.3  465s
+ 313053 108981     cutoff  164        -0.00208   -0.00208  0.02%   5.3  470s
+ 316447 109846     cutoff  160        -0.00208   -0.00208  0.02%   5.3  475s
+ 320312 110813   -0.00208  157   11   -0.00208   -0.00208  0.02%   5.3  480s
+ 323626 111662     cutoff  169        -0.00208   -0.00208  0.02%   5.3  485s
+ 326918 112387   -0.00208  150   17   -0.00208   -0.00208  0.02%   5.3  490s
+ 330255 113339     cutoff  163        -0.00208   -0.00208  0.02%   5.3  495s
+ 333968 113923   -0.00208  159   11   -0.00208   -0.00208  0.02%   5.3  500s
+ 337358 114769     cutoff  165        -0.00208   -0.00208  0.02%   5.3  505s
+ 341087 115853     cutoff  154        -0.00208   -0.00208  0.02%   5.3  510s
+ 344322 116701   -0.00208  157    7   -0.00208   -0.00208  0.02%   5.3  515s
+ 346670 117197   -0.00208  148   18   -0.00208   -0.00208  0.02%   5.3  520s
+ 350586 118242     cutoff  158        -0.00208   -0.00208  0.02%   5.3  525s
+ 354441 119121   -0.00208  166    9   -0.00208   -0.00208  0.02%   5.3  530s
+ 357247 119926   -0.00208  154   12   -0.00208   -0.00208  0.02%   5.3  535s
+ 361010 120748     cutoff  154        -0.00208   -0.00208  0.02%   5.3  540s
+ 364897 121834   -0.00208  157    7   -0.00208   -0.00208  0.02%   5.3  545s
+ 367663 122598   -0.00208  160   11   -0.00208   -0.00208  0.02%   5.3  550s
+ 371618 123525   -0.00208  155   11   -0.00208   -0.00208  0.02%   5.3  555s
+ 374787 124262     cutoff  160        -0.00208   -0.00208  0.02%   5.3  560s
+ 378245 125392   -0.00208  152    8   -0.00208   -0.00208  0.02%   5.3  565s
+ 381509 126474   -0.00208  156   13   -0.00208   -0.00208  0.02%   5.3  570s
+ 385439 127536   -0.00208  151   15   -0.00208   -0.00208  0.02%   5.3  575s
+ 388619 128441     cutoff  159        -0.00208   -0.00208  0.02%   5.3  580s
+ 392027 129211   -0.00208  161   15   -0.00208   -0.00208  0.02%   5.3  585s
+ 395955 129885   -0.00208  159   15   -0.00208   -0.00208  0.02%   5.3  590s
+ 399339 130754     cutoff  163        -0.00208   -0.00208  0.02%   5.3  595s
+ 402533 131781   -0.00208  158    9   -0.00208   -0.00208  0.02%   5.3  600s
+ 406254 132877   -0.00208  158   14   -0.00208   -0.00208  0.02%   5.3  605s
+ 409315 133835   -0.00208  148   14   -0.00208   -0.00208  0.02%   5.3  610s
+ 412674 134774   -0.00208  156   10   -0.00208   -0.00208  0.02%   5.3  615s
+ 416544 135563   -0.00208  160   10   -0.00208   -0.00208  0.02%   5.3  620s
+ 419622 136186   -0.00208  155   10   -0.00208   -0.00208  0.02%   5.3  625s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:38:19 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 3e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.04s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.16 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208343 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083434470600e-03, best bound -2.083434470600e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:41:41 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.04s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083434e-03, 1274 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0015430   -0.00208  35.0%     -    0s
+H    0     0                      -0.0016912   -0.00208  23.2%     -    0s
+H    0     0                      -0.0017028   -0.00208  22.4%     -    0s
+     0     2   -0.00208    0  164   -0.00170   -0.00208  22.4%     -    0s
+H   27    29                      -0.0017946   -0.00208  16.1%   9.5    0s
+H   56    53                      -0.0018584   -0.00208  12.1%   8.1    0s
+H   59    57                      -0.0018626   -0.00208  11.9%   7.9    0s
+H   86    88                      -0.0019028   -0.00208  9.49%   7.5    0s
+H  121   121                      -0.0019364   -0.00208  7.59%   7.7    0s
+H  128   129                      -0.0019382   -0.00208  7.49%   7.6    0s
+H  155   150                      -0.0019623   -0.00208  6.17%   7.4    0s
+H  165   161                      -0.0019712   -0.00208  5.69%   7.4    0s
+H  192   185                      -0.0020095   -0.00208  3.68%   7.3    0s
+H  231   229                      -0.0020230   -0.00208  2.99%   7.0    0s
+H  262   264                      -0.0020324   -0.00208  2.51%   7.0    1s
+H  276   278                      -0.0020384   -0.00208  2.21%   6.9    1s
+H  317   318                      -0.0020532   -0.00208  1.47%   6.7    1s
+H  352   351                      -0.0020677   -0.00208  0.76%   6.7    1s
+H  374   340                      -0.0020705   -0.00208  0.62%   6.7    1s
+H  548   487                      -0.0020706   -0.00208  0.62%   6.2    1s
+H  552   482                      -0.0020711   -0.00208  0.59%   6.2    1s
+H  615   485                      -0.0020728   -0.00208  0.51%   6.1    1s
+H  653   493                      -0.0020736   -0.00208  0.48%   6.1    1s
+H  658   151                      -0.0020811   -0.00208  0.11%   6.2    1s
+H 1040    74                      -0.0020812   -0.00208  0.11%   7.9    3s
+H 1115    23                      -0.0020821   -0.00208  0.07%   7.9    3s
+H 1124    12                      -0.0020830   -0.00208  0.02%   7.9    3s
+H 1350    10                      -0.0020832   -0.00208  0.01%   7.7    4s
+H 1360    10                      -0.0020832   -0.00208  0.01%   7.7    4s
+
+Explored 1361 nodes (11702 simplex iterations) in 4.78 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00208324 -0.00208319 -0.00208298 ... -0.0020706
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083236435458e-03, best bound -2.083434470600e-03, gap 0.0095%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:44:02 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [9e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.00154606
+Presolve time: 0.03s
+Presolved: 954 rows, 1899 columns, 8528 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.043601e-03, 1235 iterations, 0.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00204    0  182    0.00155   -0.00204   232%     -    0s
+H    0     0                      -0.0013941   -0.00204  46.6%     -    0s
+H    0     0                      -0.0016770   -0.00204  21.9%     -    0s
+H    0     0                      -0.0020100   -0.00204  1.67%     -    0s
+     0     2   -0.00204    0  182   -0.00201   -0.00204  1.67%     -    0s
+H   91    92                      -0.0020147   -0.00204  1.44%  11.9    0s
+H   92    93                      -0.0020151   -0.00204  1.41%  12.0    0s
+H  119   119                      -0.0020160   -0.00204  1.37%  11.2    0s
+H  159   157                      -0.0020244   -0.00204  0.95%  10.3    0s
+H  187   171                      -0.0020268   -0.00204  0.83%   9.8    0s
+H  218   181                      -0.0020303   -0.00204  0.66%   9.3    0s
+H  255   121                      -0.0020340   -0.00204  0.47%   8.7    0s
+H  263   119                      -0.0020342   -0.00204  0.46%   8.5    0s
+H  438   142                      -0.0020395   -0.00204  0.20%   7.0    1s
+H  526   151                      -0.0020405   -0.00204  0.15%   6.8    1s
+H  627   173                      -0.0020409   -0.00204  0.13%   6.5    1s
+H 1040   210                      -0.0020409   -0.00204  0.13%   7.6    2s
+H 1125   144                      -0.0020420   -0.00204  0.08%   7.3    2s
+H 1317   152                      -0.0020421   -0.00204  0.07%   7.2    2s
+H 1444   137                      -0.0020422   -0.00204  0.07%   7.2    3s
+H 1457   133                      -0.0020423   -0.00204  0.06%   7.2    3s
+H 1504    67                      -0.0020429   -0.00204  0.04%   7.2    3s
+H 1592    57                      -0.0020429   -0.00204  0.03%   7.8    3s
+  2038   151     cutoff  149        -0.00204   -0.00204  0.03%   7.3    5s
+H 3304   371                      -0.0020430   -0.00204  0.03%   6.3    7s
+H 4231   604                      -0.0020430   -0.00204  0.03%   6.0    8s
+  5177   831   -0.00204  148   37   -0.00204   -0.00204  0.03%   5.6   10s
+  9576  2482   -0.00204  172   17   -0.00204   -0.00204  0.03%   5.4   15s
+ 14553  4452   -0.00204  193    7   -0.00204   -0.00204  0.03%   5.5   20s
+ 18957  6041   -0.00204  168   19   -0.00204   -0.00204  0.03%   5.4   25s
+ 23183  7599     cutoff  178        -0.00204   -0.00204  0.03%   5.4   30s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:46:36 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 2e+02]
+Found heuristic solution: objective 0.000724682
+Presolve time: 0.05s
+Presolved: 969 rows, 1914 columns, 22748 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.151022e-03, 1333 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00215    0  156    0.00072   -0.00215   397%     -    0s
+H    0     0                      -0.0017457   -0.00215  23.2%     -    0s
+H    0     0                      -0.0020944   -0.00215  2.70%     -    0s
+     0     2   -0.00215    0  156   -0.00209   -0.00215  2.70%     -    0s
+H   81    82                      -0.0021318   -0.00215  0.90%   3.2    0s
+H   88    87                      -0.0021330   -0.00215  0.85%   3.3    0s
+H   89    37                      -0.0021457   -0.00215  0.25%   3.3    0s
+H  119    10                      -0.0021503   -0.00215  0.03%   4.2    0s
+H  146     4                      -0.0021506   -0.00215  0.02%   5.0    0s
+H  172    14                      -0.0021507   -0.00215  0.02%   5.0    0s
+H  176     7                      -0.0021508   -0.00215  0.01%   5.0    0s
+H  206    11                      -0.0021508   -0.00215  0.01%   4.8    0s
+
+Explored 214 nodes (2341 simplex iterations) in 0.99 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00215084 -0.00215079 -0.00215068 ... -0.00174573
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.150841983297e-03, best bound -2.151021807452e-03, gap 0.0084%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:47:56 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+02]
+Found heuristic solution: objective 0.000724682
+Presolve time: 0.04s
+Presolved: 969 rows, 1914 columns, 22748 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.151022e-03, 1333 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00215    0  156    0.00072   -0.00215   397%     -    0s
+H    0     0                      -0.0017457   -0.00215  23.2%     -    0s
+H    0     0                      -0.0020944   -0.00215  2.70%     -    0s
+     0     2   -0.00215    0  156   -0.00209   -0.00215  2.70%     -    0s
+H   88    88                      -0.0020974   -0.00215  2.56%   3.3    0s
+H  117   117                      -0.0021069   -0.00215  2.10%   3.5    0s
+H  177   176                      -0.0021188   -0.00215  1.52%   4.2    0s
+H  271   272                      -0.0021200   -0.00215  1.46%   5.6    1s
+H  306   308                      -0.0021223   -0.00215  1.35%   6.8    1s
+   938   834   -0.00214   64  104   -0.00212   -0.00215  1.34%   9.8    5s
+  1749  1308   -0.00212  184   17   -0.00212   -0.00215  1.34%  11.4   10s
+  3782  2566   -0.00215   99   74   -0.00212   -0.00215  1.34%   9.8   15s
+H 5562  4037                      -0.0021224   -0.00215  1.34%   9.6   19s
+  6036  4419   -0.00213  159   21   -0.00212   -0.00215  1.34%   9.5   20s
+H 6632  4856                      -0.0021228   -0.00215  1.32%   9.6   21s
+H 6702  4889                      -0.0021229   -0.00215  1.31%   9.6   22s
+  7580  5593   -0.00215  130   51   -0.00212   -0.00215  1.31%   9.4   25s
+H 8289  6173                      -0.0021230   -0.00215  1.31%   9.3   26s
+  9233  6943   -0.00215  115   59   -0.00212   -0.00215  1.31%   9.3   30s
+ 11272  8520   -0.00215  133   51   -0.00212   -0.00215  1.31%   9.2   35s
+ 12633  9570   -0.00213  135   32   -0.00212   -0.00215  1.31%   9.2   40s
+ 14595 11185   -0.00215   95   75   -0.00212   -0.00215  1.31%   9.1   47s
+ 15280 11698   -0.00215  112   59   -0.00212   -0.00215  1.31%   9.1   50s
+ 16961 13074   -0.00215  119   55   -0.00212   -0.00215  1.31%   9.0   56s
+ 17777 13743   -0.00214  158   23   -0.00212   -0.00215  1.31%   9.0   60s
+ 19189 14834   -0.00215  100   72   -0.00212   -0.00215  1.31%   9.0   65s
+ 20694 15994   -0.00213  187   26   -0.00212   -0.00215  1.31%   9.0   70s
+ 22368 17346   -0.00214  149   43   -0.00212   -0.00215  1.31%   9.0   75s
+ 23939 18597   -0.00215  113   60   -0.00212   -0.00215  1.31%   9.0   80s
+ 25044 19514   -0.00214  183   27   -0.00212   -0.00215  1.31%   9.0   85s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:51:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [9e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective 0.00154606
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.62841436e+08 -2.62856543e+08  3.45e+05 9.98e+02  1.00e+06     0s
+   1   2.64917203e+02 -1.22969573e+04  3.47e+02 1.01e+00  1.01e+03     0s
+   2   1.81587204e-02 -9.68939204e+03  2.22e+00 6.43e-03  1.15e+01     0s
+   3   1.49037293e-03 -3.28578469e+03  1.36e-01 3.94e-04  2.07e+00     0s
+   4  -2.75695596e-04 -2.84023692e+02  3.77e-03 1.09e-05  1.52e-01     0s
+   5  -2.86249427e-04 -4.20484029e-01  3.76e-06 1.09e-08  2.21e-04     0s
+   6  -3.96983342e-04 -2.04494189e-02  1.79e-07 5.18e-10  1.05e-05     0s
+   7  -6.50373869e-04 -2.01818305e-02  1.71e-07 4.95e-10  1.03e-05     0s
+   8  -8.56207769e-04 -1.82396216e-02  1.52e-07 4.39e-10  9.13e-06     0s
+   9  -9.09576662e-04 -9.84807389e-03  1.52e-13 4.64e-16  4.69e-06     0s
+  10  -1.41867164e-03 -4.13283856e-03  3.36e-15 5.55e-17  1.43e-06     0s
+  11  -1.77704066e-03 -2.83869847e-03  1.80e-16 2.78e-17  5.58e-07     0s
+  12  -1.94199433e-03 -2.36782967e-03  1.94e-16 1.76e-17  2.24e-07     0s
+  13  -2.01300281e-03 -2.11847243e-03  1.94e-16 2.78e-17  5.54e-08     0s
+  14  -2.03993086e-03 -2.04955419e-03  5.55e-17 2.24e-18  5.05e-09     0s
+  15  -2.04352194e-03 -2.04381974e-03  2.36e-16 1.39e-17  1.56e-10     0s
+  16  -2.04366030e-03 -2.04366749e-03  1.39e-17 2.99e-18  3.78e-12     0s
+
+Barrier solved model in 16 iterations and 0.01 seconds
+Optimal objective -2.04366030e-03
+
+
+Root relaxation: objective -2.043660e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0020437   -0.00204  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00204366 0.00154606 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.043660301443e-03, best bound -2.043660301443e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:53:07 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-03, 4e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000395331
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.53524115e+08 -2.53532746e+08  5.09e+05 9.99e+02  1.00e+06     0s
+   1   2.58506685e+02 -3.19146464e+03  5.20e+02 1.02e+00  1.02e+03     0s
+   2  -1.04417648e-02 -2.89132260e+03  1.00e+00 1.97e-03  3.48e+00     0s
+   3  -9.52492022e-04 -6.26797525e+02  4.77e-03 9.37e-06  3.36e-01     0s
+   4  -8.90674590e-04 -1.13640252e+00  5.62e-07 1.10e-09  5.98e-04     0s
+   5  -8.99374080e-04 -2.82281123e-02  1.35e-08 2.65e-11  1.44e-05     0s
+   6  -1.19548952e-03 -2.61546993e-02  1.15e-08 2.26e-11  1.31e-05     0s
+   7  -1.14230978e-03 -1.81307554e-02  1.16e-14 1.64e-16  8.94e-06     0s
+   8  -1.37691434e-03 -6.12549005e-03  1.80e-16 6.54e-17  2.50e-06     0s
+   9  -1.67698605e-03 -5.40662451e-03  1.39e-16 4.23e-17  1.96e-06     0s
+  10  -1.97746996e-03 -4.37509702e-03  6.94e-17 3.17e-17  1.26e-06     0s
+  11  -2.22322939e-03 -3.66562249e-03  6.94e-18 1.77e-17  7.59e-07     0s
+  12  -2.40045949e-03 -3.32139640e-03  4.16e-17 1.12e-17  4.85e-07     0s
+  13  -2.59230718e-03 -2.96241260e-03  4.16e-17 2.88e-17  1.95e-07     0s
+  14  -2.66823251e-03 -2.85360564e-03  4.34e-19 1.60e-17  9.76e-08     0s
+  15  -2.74157232e-03 -2.75700937e-03  3.47e-17 1.19e-17  8.12e-09     0s
+  16  -2.74830587e-03 -2.74904325e-03  6.94e-17 4.67e-17  3.88e-10     0s
+  17  -2.74866087e-03 -2.74866173e-03  4.86e-17 1.23e-17  4.49e-13     0s
+
+Barrier solved model in 17 iterations and 0.02 seconds
+Optimal objective -2.74866087e-03
+
+
+Root relaxation: objective -2.748661e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0027487   -0.00275  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00274866 -0.000395331 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.748660873668e-03, best bound -2.748660873668e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:53:25 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-04, 4e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000583526
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.51800656e+08 -2.51819170e+08  4.01e+05 9.97e+02  1.00e+06     0s
+   1   2.47129807e+02 -1.18863334e+03  4.11e+02 1.02e+00  1.03e+03     0s
+   2  -2.80528653e-02 -9.19342161e+02  6.28e-01 1.56e-03  2.05e+00     0s
+   3  -1.83941570e-03 -4.11979157e+02  1.95e-02 4.86e-05  2.54e-01     0s
+   4  -7.50954006e-04 -3.27296061e+01  2.55e-04 6.35e-07  1.74e-02     0s
+   5  -7.38904542e-04 -5.61466324e-02  3.73e-07 9.28e-10  2.92e-05     0s
+   6  -7.90215586e-04 -2.85834865e-02  1.55e-07 3.87e-10  1.46e-05     0s
+   7  -1.02796293e-03 -2.42983454e-02  1.12e-07 2.80e-10  1.22e-05     0s
+   8  -1.07003445e-03 -2.35488695e-02  1.09e-07 2.70e-10  1.18e-05     0s
+   9  -1.15440132e-03 -7.20601429e-03  2.77e-08 6.89e-11  3.19e-06     0s
+  10  -1.49206668e-03 -6.94460478e-03  1.58e-08 3.93e-11  2.87e-06     0s
+  11  -1.83402436e-03 -5.59492000e-03  8.47e-09 2.11e-11  1.98e-06     0s
+  12  -1.99558440e-03 -4.92651887e-03  6.56e-09 1.63e-11  1.54e-06     0s
+  13  -2.27255375e-03 -4.26970550e-03  3.80e-09 9.45e-12  1.05e-06     0s
+  14  -2.45851430e-03 -3.88926620e-03  2.48e-09 6.18e-12  7.53e-07     0s
+  15  -2.59424285e-03 -3.65645124e-03  1.62e-09 4.02e-12  5.59e-07     0s
+  16  -2.71509941e-03 -3.45046750e-03  9.80e-10 2.44e-12  3.87e-07     0s
+  17  -2.79519605e-03 -3.32677316e-03  6.23e-10 1.55e-12  2.80e-07     0s
+  18  -2.86702697e-03 -3.21639451e-03  4.01e-10 9.99e-13  1.84e-07     0s
+  19  -2.91893256e-03 -3.14941065e-03  2.33e-10 5.81e-13  1.21e-07     0s
+  20  -2.98220031e-03 -3.06974152e-03  6.47e-11 1.61e-13  4.61e-08     0s
+  21  -3.00831005e-03 -3.03830147e-03  6.59e-17 2.68e-17  1.58e-08     0s
+  22  -3.02227768e-03 -3.02294145e-03  6.94e-18 6.00e-17  3.49e-10     0s
+  23  -3.02260355e-03 -3.02260746e-03  1.04e-17 1.39e-16  2.06e-12     0s
+
+Barrier solved model in 23 iterations and 0.02 seconds
+Optimal objective -3.02260355e-03
+
+
+Root relaxation: objective -3.022604e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030226   -0.00302  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.0030226 -0.000583526 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.022603551637e-03, best bound -3.022603551637e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:54:20 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [9e-05, 4e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000667279
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.02s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.43863177e+08 -2.43882832e+08  4.12e+05 1.00e+03  1.00e+06     0s
+   1   2.58203253e+02 -1.43847664e+03  4.39e+02 1.07e+00  1.07e+03     0s
+   2  -3.09105713e-02 -1.13208702e+03  7.03e-01 1.71e-03  2.30e+00     0s
+   3  -2.29444500e-03 -4.58812861e+02  3.65e-02 8.87e-05  3.11e-01     0s
+   4  -7.56985233e-04 -5.20129893e+01  6.78e-04 1.65e-06  2.80e-02     0s
+   5  -7.25797828e-04 -9.92595165e-02  6.79e-07 1.65e-09  5.18e-05     0s
+   6  -7.55440037e-04 -1.92319576e-02  1.24e-07 3.01e-10  9.70e-06     0s
+   7  -7.73643117e-04 -1.90769982e-02  1.23e-07 2.98e-10  9.61e-06     0s
+   8  -1.03329910e-03 -1.75754221e-02  1.10e-07 2.68e-10  8.69e-06     0s
+   9  -1.26260811e-03 -1.39599956e-02  7.35e-08 1.79e-10  6.67e-06     0s
+  10  -1.44121710e-03 -6.53510115e-03  1.81e-08 4.39e-11  2.68e-06     0s
+  11  -1.48490085e-03 -6.15453818e-03  1.58e-08 3.83e-11  2.45e-06     0s
+  12  -1.58441300e-03 -6.09521476e-03  1.48e-08 3.59e-11  2.37e-06     0s
+  13  -1.76310921e-03 -5.01040389e-03  1.05e-08 2.56e-11  1.71e-06     0s
+  14  -1.96988055e-03 -4.55346632e-03  8.34e-09 2.02e-11  1.36e-06     0s
+  15  -2.14086026e-03 -4.17209619e-03  6.49e-09 1.58e-11  1.07e-06     0s
+  16  -2.29824186e-03 -3.87794286e-03  5.00e-09 1.21e-11  8.30e-07     0s
+  17  -2.40221448e-03 -3.75871557e-03  4.02e-09 9.77e-12  7.12e-07     0s
+  18  -2.53992120e-03 -3.58901325e-03  2.78e-09 6.74e-12  5.51e-07     0s
+  19  -2.64138794e-03 -3.45357672e-03  2.14e-09 5.19e-12  4.27e-07     0s
+  20  -2.74381290e-03 -3.33222946e-03  1.33e-09 3.24e-12  3.09e-07     0s
+  21  -2.79903656e-03 -3.28170874e-03  9.77e-10 2.37e-12  2.54e-07     0s
+  22  -2.89771473e-03 -3.17465507e-03  3.77e-10 9.15e-13  1.45e-07     0s
+  23  -2.98600337e-03 -3.08305480e-03  8.57e-11 2.08e-13  5.10e-08     0s
+  24  -3.02573357e-03 -3.04576739e-03  5.44e-12 1.32e-14  1.05e-08     0s
+  25  -3.03379045e-03 -3.03711917e-03  1.73e-17 2.59e-16  1.75e-09     0s
+  26  -3.03541828e-03 -3.03543115e-03  6.94e-18 4.37e-17  6.75e-12     0s
+  27  -3.03542461e-03 -3.03542463e-03  1.56e-17 2.01e-16  7.62e-15     0s
+
+Barrier solved model in 27 iterations and 0.03 seconds
+Optimal objective -3.03542461e-03
+
+
+Root relaxation: objective -3.035425e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030354   -0.00304  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00303542 -0.000667279 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.035424612071e-03, best bound -3.035424612071e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:54:35 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-05, 1e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000682183
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.02s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.60688909e+08 -2.60723136e+08  3.70e+05 9.98e+02  1.00e+06     0s
+   1   3.08230337e+02 -1.06254873e+03  4.27e+02 1.15e+00  1.15e+03     0s
+   2  -5.13800878e-02 -7.01665148e+02  5.68e-01 1.53e-03  1.90e+00     0s
+   3  -3.32322499e-03 -3.09326914e+02  2.94e-02 7.94e-05  2.28e-01     0s
+   4  -8.37130239e-04 -5.22930516e+01  1.07e-03 2.88e-06  2.91e-02     0s
+   5  -7.36807031e-04 -3.78541752e-01  1.17e-06 3.16e-09  1.98e-04     0s
+   6  -7.44391671e-04 -1.69139151e-02  5.01e-08 1.35e-10  8.49e-06     0s
+   7  -1.00769832e-03 -1.69126269e-02  4.86e-08 1.31e-10  8.35e-06     0s
+   8  -9.50053510e-04 -1.62411940e-02  3.79e-08 1.02e-10  8.03e-06     0s
+   9  -1.01817944e-03 -1.48821026e-02  3.29e-08 8.88e-11  7.28e-06     0s
+  10  -1.11100051e-03 -7.72843685e-03  3.93e-09 1.06e-11  3.48e-06     0s
+  11  -1.15679838e-03 -7.38033796e-03  3.70e-09 9.97e-12  3.27e-06     0s
+  12  -1.24005893e-03 -6.61088402e-03  3.19e-09 8.59e-12  2.82e-06     0s
+  13  -1.36714460e-03 -5.76466839e-03  2.60e-09 7.01e-12  2.31e-06     0s
+  14  -1.52769408e-03 -5.39524003e-03  2.28e-09 6.15e-12  2.03e-06     0s
+  15  -1.75755903e-03 -4.77671800e-03  1.63e-09 4.40e-12  1.59e-06     0s
+  16  -2.04425770e-03 -4.36838896e-03  1.09e-09 2.95e-12  1.22e-06     0s
+  17  -2.26536360e-03 -4.10437265e-03  7.60e-10 2.05e-12  9.66e-07     0s
+  18  -2.44991453e-03 -3.83897943e-03  5.18e-10 1.40e-12  7.30e-07     0s
+  19  -2.62085799e-03 -3.56573928e-03  3.47e-10 9.36e-13  4.96e-07     0s
+  20  -2.71695019e-03 -3.43951457e-03  2.16e-10 5.82e-13  3.79e-07     0s
+  21  -2.81200123e-03 -3.33133261e-03  1.40e-10 3.78e-13  2.73e-07     0s
+  22  -2.89992626e-03 -3.22862335e-03  7.54e-11 2.03e-13  1.73e-07     0s
+  23  -2.97009563e-03 -3.14579057e-03  3.25e-11 8.76e-14  9.23e-08     0s
+  24  -3.02277411e-03 -3.08948119e-03  8.77e-12 2.37e-14  3.50e-08     0s
+  25  -3.05144530e-03 -3.05897462e-03  3.91e-13 1.25e-15  3.95e-09     0s
+  26  -3.05431062e-03 -3.05607258e-03  5.20e-18 8.58e-17  9.25e-10     0s
+  27  -3.05518507e-03 -3.05518722e-03  0.00e+00 1.33e-16  1.13e-12     0s
+
+Barrier solved model in 27 iterations and 0.04 seconds
+Optimal objective -3.05518507e-03
+
+
+Root relaxation: objective -3.055185e-03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030552   -0.00306  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00305519 -0.000682183 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.055185071238e-03, best bound -3.055185071238e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:55:35 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-05, 1e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000682183
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.60688909e+08 -2.60723136e+08  3.70e+05 9.98e+02  1.00e+06     0s
+   1   3.08230337e+02 -1.06254873e+03  4.27e+02 1.15e+00  1.15e+03     0s
+   2  -5.13800878e-02 -7.01665148e+02  5.68e-01 1.53e-03  1.90e+00     0s
+   3  -3.32322499e-03 -3.09326914e+02  2.94e-02 7.94e-05  2.28e-01     0s
+   4  -8.37130239e-04 -5.22930516e+01  1.07e-03 2.88e-06  2.91e-02     0s
+   5  -7.36807031e-04 -3.78541752e-01  1.17e-06 3.16e-09  1.98e-04     0s
+   6  -7.44391671e-04 -1.69139151e-02  5.01e-08 1.35e-10  8.49e-06     0s
+   7  -1.00769832e-03 -1.69126269e-02  4.86e-08 1.31e-10  8.35e-06     0s
+   8  -9.50053510e-04 -1.62411940e-02  3.79e-08 1.02e-10  8.03e-06     0s
+   9  -1.01817944e-03 -1.48821026e-02  3.29e-08 8.88e-11  7.28e-06     0s
+  10  -1.11100051e-03 -7.72843685e-03  3.93e-09 1.06e-11  3.48e-06     0s
+  11  -1.15679838e-03 -7.38033796e-03  3.70e-09 9.97e-12  3.27e-06     0s
+  12  -1.24005893e-03 -6.61088402e-03  3.19e-09 8.59e-12  2.82e-06     0s
+  13  -1.36714460e-03 -5.76466839e-03  2.60e-09 7.01e-12  2.31e-06     0s
+  14  -1.52769408e-03 -5.39524003e-03  2.28e-09 6.15e-12  2.03e-06     0s
+  15  -1.75755903e-03 -4.77671800e-03  1.63e-09 4.40e-12  1.59e-06     0s
+  16  -2.04425770e-03 -4.36838896e-03  1.09e-09 2.95e-12  1.22e-06     0s
+  17  -2.26536360e-03 -4.10437265e-03  7.60e-10 2.05e-12  9.66e-07     0s
+  18  -2.44991453e-03 -3.83897943e-03  5.18e-10 1.40e-12  7.30e-07     0s
+  19  -2.62085799e-03 -3.56573928e-03  3.47e-10 9.36e-13  4.96e-07     0s
+  20  -2.71695019e-03 -3.43951457e-03  2.16e-10 5.82e-13  3.79e-07     0s
+  21  -2.81200123e-03 -3.33133261e-03  1.40e-10 3.78e-13  2.73e-07     0s
+  22  -2.89992626e-03 -3.22862335e-03  7.54e-11 2.03e-13  1.73e-07     0s
+  23  -2.97009563e-03 -3.14579057e-03  3.25e-11 8.76e-14  9.23e-08     0s
+  24  -3.02277411e-03 -3.08948119e-03  8.77e-12 2.36e-14  3.50e-08     0s
+  25  -3.05144530e-03 -3.05897462e-03  3.91e-13 1.12e-15  3.95e-09     0s
+  26  -3.05431062e-03 -3.05607258e-03  1.73e-18 1.21e-16  9.25e-10     0s
+  27  -3.05518507e-03 -3.05518722e-03  4.34e-18 1.34e-16  1.13e-12     0s
+
+Barrier solved model in 27 iterations and 0.03 seconds
+Optimal objective -3.05518507e-03
+
+
+Root relaxation: objective -3.055185e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030552   -0.00306  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00305519 -0.000682183 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.055185071238e-03, best bound -3.055185071238e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:56:22 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-05, 1e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000682183
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.60688909e+08 -2.60723136e+08  3.70e+05 9.98e+02  1.00e+06     0s
+   1   3.08230337e+02 -1.06254873e+03  4.27e+02 1.15e+00  1.15e+03     0s
+   2  -5.13800878e-02 -7.01665148e+02  5.68e-01 1.53e-03  1.90e+00     0s
+   3  -3.32322499e-03 -3.09326914e+02  2.94e-02 7.94e-05  2.28e-01     0s
+   4  -8.37130239e-04 -5.22930516e+01  1.07e-03 2.88e-06  2.91e-02     0s
+   5  -7.36807031e-04 -3.78541752e-01  1.17e-06 3.16e-09  1.98e-04     0s
+   6  -7.44391671e-04 -1.69139151e-02  5.01e-08 1.35e-10  8.49e-06     0s
+   7  -1.00769832e-03 -1.69126269e-02  4.86e-08 1.31e-10  8.35e-06     0s
+   8  -9.50053510e-04 -1.62411940e-02  3.79e-08 1.02e-10  8.03e-06     0s
+   9  -1.01817944e-03 -1.48821026e-02  3.29e-08 8.88e-11  7.28e-06     0s
+  10  -1.11100051e-03 -7.72843685e-03  3.93e-09 1.06e-11  3.48e-06     0s
+  11  -1.15679838e-03 -7.38033796e-03  3.70e-09 9.97e-12  3.27e-06     0s
+  12  -1.24005893e-03 -6.61088402e-03  3.19e-09 8.59e-12  2.82e-06     0s
+  13  -1.36714460e-03 -5.76466839e-03  2.60e-09 7.01e-12  2.31e-06     0s
+  14  -1.52769408e-03 -5.39524003e-03  2.28e-09 6.15e-12  2.03e-06     0s
+  15  -1.75755903e-03 -4.77671800e-03  1.63e-09 4.40e-12  1.59e-06     0s
+  16  -2.04425770e-03 -4.36838896e-03  1.09e-09 2.95e-12  1.22e-06     0s
+  17  -2.26536360e-03 -4.10437265e-03  7.60e-10 2.05e-12  9.66e-07     0s
+  18  -2.44991453e-03 -3.83897943e-03  5.18e-10 1.40e-12  7.30e-07     0s
+  19  -2.62085799e-03 -3.56573928e-03  3.47e-10 9.36e-13  4.96e-07     0s
+  20  -2.71695019e-03 -3.43951457e-03  2.16e-10 5.82e-13  3.79e-07     0s
+  21  -2.81200123e-03 -3.33133261e-03  1.40e-10 3.78e-13  2.73e-07     0s
+  22  -2.89992626e-03 -3.22862335e-03  7.54e-11 2.03e-13  1.73e-07     0s
+  23  -2.97009563e-03 -3.14579057e-03  3.25e-11 8.76e-14  9.23e-08     0s
+  24  -3.02277411e-03 -3.08948119e-03  8.77e-12 2.37e-14  3.50e-08     0s
+  25  -3.05144530e-03 -3.05897462e-03  3.91e-13 1.10e-15  3.95e-09     0s
+  26  -3.05431062e-03 -3.05607258e-03  6.07e-18 1.24e-16  9.25e-10     0s
+  27  -3.05518507e-03 -3.05518722e-03  1.73e-18 1.22e-16  1.13e-12     0s
+
+Barrier solved model in 27 iterations and 0.02 seconds
+Optimal objective -3.05518507e-03
+
+
+Root relaxation: objective -3.055185e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030552   -0.00306  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00305519 -0.000682183 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.055185071238e-03, best bound -3.055185071238e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:57:11 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [2e-04, 6e-01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000652374
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.66383641e+08 -2.66400407e+08  3.37e+05 9.98e+02  1.00e+06     0s
+   1   2.90898983e+02 -1.84091938e+03  3.62e+02 1.07e+00  1.07e+03     0s
+   2  -3.02047156e-02 -1.47713232e+03  7.07e-01 2.10e-03  2.87e+00     0s
+   3  -2.50775905e-03 -6.01946508e+02  4.50e-02 1.33e-04  4.26e-01     0s
+   4  -7.80500755e-04 -8.46933979e+01  1.51e-03 4.47e-06  4.65e-02     0s
+   5  -7.12707696e-04 -3.99107966e-01  1.57e-06 4.66e-09  2.09e-04     0s
+   6  -7.19175393e-04 -1.69461634e-02  6.39e-08 1.90e-10  8.52e-06     0s
+   7  -9.97335907e-04 -1.66056254e-02  5.96e-08 1.77e-10  8.20e-06     0s
+   8  -1.06756766e-03 -1.61868150e-02  4.93e-08 1.46e-10  7.94e-06     0s
+   9  -8.26736988e-04 -1.01405946e-02  6.58e-09 1.95e-11  4.89e-06     0s
+  10  -1.21721606e-03 -8.38132726e-03  2.76e-09 8.18e-12  3.76e-06     0s
+  11  -1.54278933e-03 -8.03171858e-03  2.30e-09 6.82e-12  3.41e-06     0s
+  12  -1.76984707e-03 -5.54722045e-03  1.30e-09 3.87e-12  1.98e-06     0s
+  13  -1.92338172e-03 -5.13086033e-03  1.03e-09 3.05e-12  1.68e-06     0s
+  14  -1.99688957e-03 -5.06409798e-03  9.51e-10 2.82e-12  1.61e-06     0s
+  15  -2.30079542e-03 -4.18386030e-03  5.58e-10 1.65e-12  9.89e-07     0s
+  16  -2.49472905e-03 -3.76477522e-03  3.67e-10 1.09e-12  6.67e-07     0s
+  17  -2.62866636e-03 -3.58269847e-03  2.48e-10 7.37e-13  5.01e-07     0s
+  18  -2.73067936e-03 -3.40327964e-03  1.57e-10 4.64e-13  3.53e-07     0s
+  19  -2.81355603e-03 -3.27756681e-03  9.23e-11 2.74e-13  2.44e-07     0s
+  20  -2.93534693e-03 -3.11289287e-03  1.46e-11 4.33e-14  9.32e-08     0s
+  21  -2.98055196e-03 -3.06204913e-03  1.78e-12 5.27e-15  4.28e-08     0s
+  22  -3.00888520e-03 -3.02706809e-03  3.19e-14 2.17e-16  9.55e-09     0s
+  23  -3.01761766e-03 -3.01768470e-03  2.08e-17 3.89e-17  3.52e-11     0s
+  24  -3.01765033e-03 -3.01765040e-03  2.08e-17 4.01e-17  3.56e-14     0s
+
+Barrier solved model in 24 iterations and 0.02 seconds
+Optimal objective -3.01765033e-03
+
+
+Root relaxation: objective -3.017650e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0030177   -0.00302  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00301765 -0.000652374 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -3.017650331901e-03, best bound -3.017650331901e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:38 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-04, 1e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000615112
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.50703452e+08 -2.50716061e+08  4.59e+05 9.99e+02  1.00e+06     0s
+   1   2.55417694e+02 -2.43880638e+03  4.73e+02 1.03e+00  1.03e+03     0s
+   2  -1.87181050e-02 -2.06308556e+03  9.05e-01 1.97e-03  3.05e+00     0s
+   3  -1.51982882e-03 -6.62862505e+02  4.39e-02 9.55e-05  4.21e-01     0s
+   4  -7.51737241e-04 -6.17318352e+01  1.55e-03 3.36e-06  3.32e-02     0s
+   5  -7.17983519e-04 -1.30623238e-01  1.53e-06 3.34e-09  6.82e-05     0s
+   6  -7.42909486e-04 -1.91205606e-02  2.13e-07 4.64e-10  9.65e-06     0s
+   7  -1.00580943e-03 -1.92166623e-02  2.10e-07 4.57e-10  9.56e-06     0s
+   8  -9.62091391e-04 -1.80296937e-02  1.40e-07 3.06e-10  8.96e-06     0s
+   9  -1.04122156e-03 -1.60558023e-02  1.17e-07 2.55e-10  7.89e-06     0s
+  10  -1.32286515e-03 -7.47844799e-03  4.06e-09 8.83e-12  3.23e-06     0s
+  11  -1.69539358e-03 -5.78589968e-03  2.08e-09 4.53e-12  2.15e-06     0s
+  12  -1.93635916e-03 -5.21184040e-03  1.43e-09 3.11e-12  1.72e-06     0s
+  13  -2.17096863e-03 -4.31400754e-03  9.18e-10 2.00e-12  1.13e-06     0s
+  14  -2.36771114e-03 -3.94391121e-03  5.73e-10 1.25e-12  8.28e-07     0s
+  15  -2.63636346e-03 -3.44888901e-03  2.39e-10 5.20e-13  4.27e-07     0s
+  16  -2.82621090e-03 -3.16206211e-03  6.40e-11 1.39e-13  1.76e-07     0s
+  17  -2.89837065e-03 -3.07621740e-03  5.19e-12 1.13e-14  9.34e-08     0s
+  18  -2.94193554e-03 -3.01913311e-03  2.17e-12 4.72e-15  4.05e-08     0s
+  19  -2.96905539e-03 -2.98548536e-03  5.20e-17 1.58e-16  8.63e-09     0s
+  20  -2.97687815e-03 -2.97698443e-03  1.39e-17 5.20e-17  5.58e-11     0s
+  21  -2.97693100e-03 -2.97693210e-03  5.55e-17 4.83e-17  5.80e-13     0s
+
+Barrier solved model in 21 iterations and 0.02 seconds
+Optimal objective -2.97693100e-03
+
+
+Root relaxation: objective -2.976931e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0029769   -0.00298  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00297693 -0.000615112 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.976930995626e-03, best bound -2.976930995626e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [6e-04, 2e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000540589
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.66391216e+08 -2.66402131e+08  3.37e+05 9.98e+02  1.00e+06     0s
+   1   2.77671967e+02 -3.35280567e+03  3.49e+02 1.03e+00  1.04e+03     0s
+   2  -1.76947180e-02 -2.85142721e+03  9.44e-01 2.80e-03  4.29e+00     0s
+   3  -1.55441276e-03 -1.06820887e+03  6.61e-02 1.96e-04  7.25e-01     0s
+   4  -7.31582228e-04 -1.22469630e+02  2.70e-03 8.02e-06  6.72e-02     0s
+   5  -6.76972511e-04 -5.14141610e-01  2.67e-06 7.91e-09  2.70e-04     0s
+   6  -6.82133333e-04 -1.72718584e-02  8.62e-08 2.55e-10  8.71e-06     0s
+   7  -8.57552641e-04 -1.70408325e-02  7.45e-08 2.21e-10  8.50e-06     0s
+   8  -9.15919280e-04 -1.51522962e-02  6.54e-08 1.94e-10  7.48e-06     0s
+   9  -1.20018632e-03 -1.08636758e-02  4.38e-08 1.30e-10  5.08e-06     0s
+  10  -1.41187661e-03 -5.16611459e-03  7.86e-09 2.33e-11  1.97e-06     0s
+  11  -1.63692560e-03 -4.96404277e-03  6.47e-09 1.92e-11  1.75e-06     0s
+  12  -1.83876625e-03 -4.61819718e-03  4.89e-09 1.45e-11  1.46e-06     0s
+  13  -2.03006068e-03 -4.02793576e-03  3.47e-09 1.03e-11  1.05e-06     0s
+  14  -2.28571230e-03 -3.63460124e-03  1.94e-09 5.74e-12  7.08e-07     0s
+  15  -2.55665250e-03 -3.26493545e-03  7.42e-10 2.20e-12  3.72e-07     0s
+  16  -2.70994995e-03 -3.10548125e-03  2.86e-10 8.47e-13  2.08e-07     0s
+  17  -2.80368725e-03 -3.00621476e-03  1.06e-10 3.13e-13  1.06e-07     0s
+  18  -2.85637774e-03 -2.95407811e-03  1.18e-16 3.15e-17  5.13e-08     0s
+  19  -2.89473198e-03 -2.90874959e-03  3.47e-17 4.63e-17  7.36e-09     0s
+  20  -2.90102312e-03 -2.90148071e-03  1.39e-17 4.38e-17  2.40e-10     0s
+  21  -2.90124469e-03 -2.90124569e-03  6.94e-18 5.40e-17  5.24e-13     0s
+
+Barrier solved model in 21 iterations and 0.03 seconds
+Optimal objective -2.90124469e-03
+
+
+Root relaxation: objective -2.901245e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0029012   -0.00290  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00290124 -0.000540589 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.901244694805e-03, best bound -2.901244694805e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [9e-04, 4e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000466066
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.59543561e+08 -2.59553777e+08  2.71e+05 9.99e+02  1.00e+06     0s
+   1   2.74572770e+02 -3.92482599e+03  2.82e+02 1.04e+00  1.04e+03     0s
+   2  -1.60242694e-02 -3.41233229e+03  9.56e-01 3.52e-03  5.31e+00     0s
+   3  -7.91090252e-04 -1.31264885e+03  3.34e-02 1.23e-04  7.96e-01     0s
+   4  -6.44763409e-04 -9.10513125e+01  8.92e-04 3.28e-06  4.85e-02     0s
+   5  -6.31577339e-04 -1.26575798e-01  8.89e-07 3.27e-09  6.61e-05     0s
+   6  -6.79097741e-04 -2.36274976e-02  1.58e-07 5.82e-10  1.21e-05     0s
+   7  -9.56903886e-04 -2.18334102e-02  1.33e-07 4.91e-10  1.10e-05     0s
+   8  -9.64705185e-04 -1.96321716e-02  1.11e-07 4.07e-10  9.80e-06     0s
+   9  -1.24204373e-03 -1.85825107e-02  9.72e-08 3.58e-10  9.11e-06     0s
+  10  -1.20388450e-03 -1.11584824e-02  9.72e-14 4.07e-16  5.23e-06     0s
+  11  -1.52091213e-03 -8.35409596e-03  4.91e-14 2.22e-16  3.59e-06     0s
+  12  -1.95175693e-03 -5.15932285e-03  1.46e-14 8.70e-17  1.68e-06     0s
+  13  -2.13076627e-03 -4.35934582e-03  8.26e-15 5.68e-17  1.17e-06     0s
+  14  -2.36082218e-03 -3.73714491e-03  4.11e-15 2.99e-17  7.23e-07     0s
+  15  -2.60776696e-03 -3.16661147e-03  5.76e-16 2.78e-17  2.94e-07     0s
+  16  -2.71588693e-03 -2.99252954e-03  1.87e-16 1.04e-17  1.45e-07     0s
+  17  -2.78997976e-03 -2.88826819e-03  4.86e-17 3.27e-17  5.16e-08     0s
+  18  -2.82589018e-03 -2.83828713e-03  2.08e-17 1.55e-17  6.51e-09     0s
+  19  -2.83162539e-03 -2.83175019e-03  6.94e-17 1.69e-17  6.55e-11     0s
+  20  -2.83168576e-03 -2.83168595e-03  5.20e-17 3.82e-17  1.03e-13     0s
+
+Barrier solved model in 20 iterations and 0.01 seconds
+Optimal objective -2.83168576e-03
+
+
+Root relaxation: objective -2.831686e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0028317   -0.00283  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00283169 -0.000466066 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.831685758355e-03, best bound -2.831685758355e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-03, 5e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000391542
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.50708594e+08 -2.50718512e+08  4.59e+05 9.99e+02  1.00e+06     0s
+   1   2.52240484e+02 -4.60278745e+03  4.65e+02 1.01e+00  1.02e+03     0s
+   2  -9.18623117e-03 -3.95348802e+03  1.19e+00 2.60e-03  4.67e+00     0s
+   3  -7.78865686e-04 -1.08363623e+03  5.28e-02 1.15e-04  6.58e-01     0s
+   4  -6.47275640e-04 -7.74555657e+01  1.32e-03 2.86e-06  4.11e-02     0s
+   5  -6.37002237e-04 -9.64869043e-02  1.33e-06 2.90e-09  5.03e-05     0s
+   6  -6.97270455e-04 -2.33485021e-02  3.02e-07 6.56e-10  1.19e-05     0s
+   7  -9.63810223e-04 -2.33267445e-02  2.95e-07 6.41e-10  1.17e-05     0s
+   8  -1.16775768e-03 -2.14154283e-02  1.85e-07 4.03e-10  1.06e-05     0s
+   9  -1.04622184e-03 -1.10553844e-02  1.86e-13 4.70e-16  5.26e-06     0s
+  10  -1.65950295e-03 -5.50594807e-03  3.63e-14 1.03e-16  2.02e-06     0s
+  11  -2.10070926e-03 -3.93517219e-03  1.20e-14 4.26e-17  9.63e-07     0s
+  12  -2.33005892e-03 -3.49071398e-03  5.75e-15 4.92e-17  6.10e-07     0s
+  13  -2.54891668e-03 -3.14065957e-03  1.67e-15 2.78e-17  3.11e-07     0s
+  14  -2.63925092e-03 -2.96700436e-03  8.19e-16 2.78e-17  1.72e-07     0s
+  15  -2.71766135e-03 -2.84192053e-03  1.39e-17 8.33e-17  6.53e-08     0s
+  16  -2.76317427e-03 -2.77995888e-03  1.39e-17 2.59e-17  8.82e-09     0s
+  17  -2.77070745e-03 -2.77101092e-03  1.39e-17 5.05e-17  1.59e-10     0s
+  18  -2.77085206e-03 -2.77085353e-03  6.94e-18 7.95e-17  7.72e-13     0s
+
+Barrier solved model in 18 iterations and 0.02 seconds
+Optimal objective -2.77085206e-03
+
+
+Root relaxation: objective -2.770852e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0027709   -0.00277  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00277085 -0.000391542 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.770852055426e-03, best bound -2.770852055426e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [2e-03, 6e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000317019
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.45996093e+08 -2.46005891e+08  4.05e+05 9.99e+02  1.00e+06     0s
+   1   2.48646931e+02 -4.95121478e+03  4.11e+02 1.01e+00  1.02e+03     0s
+   2  -8.66308546e-03 -4.30227768e+03  1.27e+00 3.14e-03  5.39e+00     0s
+   3  -5.99329058e-04 -1.36316739e+03  6.64e-02 1.64e-04  8.46e-01     0s
+   4  -6.26315643e-04 -1.17622207e+02  2.15e-03 5.30e-06  6.29e-02     0s
+   5  -6.11748524e-04 -1.85093581e-01  2.14e-06 5.28e-09  9.69e-05     0s
+   6  -6.52396863e-04 -2.08267251e-02  2.31e-07 5.71e-10  1.06e-05     0s
+   7  -6.97506589e-04 -2.04802585e-02  2.27e-07 5.60e-10  1.04e-05     0s
+   8  -9.20211768e-04 -1.82895142e-02  1.99e-07 4.90e-10  9.12e-06     0s
+   9  -1.18565177e-03 -1.34395882e-02  1.39e-07 3.43e-10  6.44e-06     0s
+  10  -1.45672270e-03 -5.56881536e-03  1.28e-08 3.15e-11  2.16e-06     0s
+  11  -1.53614239e-03 -5.51044031e-03  1.20e-08 2.96e-11  2.09e-06     0s
+  12  -1.88168631e-03 -4.54866670e-03  5.98e-09 1.48e-11  1.40e-06     0s
+  13  -2.12752981e-03 -3.84158995e-03  3.18e-09 7.85e-12  9.00e-07     0s
+  14  -2.33603862e-03 -3.36916274e-03  1.35e-09 3.34e-12  5.43e-07     0s
+  15  -2.54301615e-03 -2.97632387e-03  1.69e-10 4.17e-13  2.28e-07     0s
+  16  -2.62562681e-03 -2.85038821e-03  2.22e-16 6.97e-18  1.18e-07     0s
+  17  -2.71071888e-03 -2.72346649e-03  2.08e-17 2.78e-17  6.70e-09     0s
+  18  -2.71647542e-03 -2.71653626e-03  1.39e-17 1.22e-17  3.20e-11     0s
+  19  -2.71650592e-03 -2.71650675e-03  7.63e-17 1.67e-17  4.35e-13     0s
+
+Barrier solved model in 19 iterations and 0.02 seconds
+Optimal objective -2.71650592e-03
+
+
+Root relaxation: objective -2.716506e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0027165   -0.00272  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00271651 -0.000317019 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.716505924327e-03, best bound -2.716505924328e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [2e-03, 7e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000242496
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.57463537e+08 -2.57473780e+08  3.79e+05 9.97e+02  1.00e+06     0s
+   1   2.61344271e+02 -5.75277801e+03  3.85e+02 1.01e+00  1.02e+03     0s
+   2  -7.11360780e-03 -4.78715058e+03  1.24e+00 3.27e-03  5.77e+00     0s
+   3  -3.19060392e-04 -1.48188780e+03  6.89e-02 1.81e-04  9.26e-01     0s
+   4  -5.88524028e-04 -1.28248850e+02  2.09e-03 5.50e-06  6.86e-02     0s
+   5  -5.77115783e-04 -1.99046478e-01  2.08e-06 5.47e-09  1.04e-04     0s
+   6  -6.25891708e-04 -2.09723915e-02  2.11e-07 5.56e-10  1.07e-05     0s
+   7  -6.86116354e-04 -2.05129411e-02  2.06e-07 5.41e-10  1.04e-05     0s
+   8  -8.51240511e-04 -1.83056384e-02  1.81e-07 4.76e-10  9.17e-06     0s
+   9  -1.10472653e-03 -1.50311575e-02  1.44e-07 3.78e-10  7.31e-06     0s
+  10  -1.32192780e-03 -5.83985783e-03  1.54e-08 4.05e-11  2.37e-06     0s
+  11  -1.64206451e-03 -5.06857161e-03  9.67e-09 2.54e-11  1.80e-06     0s
+  12  -1.91882148e-03 -4.87191783e-03  4.38e-09 1.15e-11  1.55e-06     0s
+  13  -2.17534388e-03 -3.98918653e-03  1.80e-09 4.73e-12  9.53e-07     0s
+  14  -2.36518639e-03 -3.28309731e-03  6.44e-10 1.69e-12  4.82e-07     0s
+  15  -2.55305085e-03 -2.81710610e-03  8.79e-11 2.31e-13  1.39e-07     0s
+  16  -2.64341857e-03 -2.70005155e-03  4.16e-17 1.18e-17  2.97e-08     0s
+  17  -2.66352603e-03 -2.67088715e-03  2.78e-17 6.92e-18  3.87e-09     0s
+  18  -2.66681525e-03 -2.66685336e-03  2.08e-17 5.74e-17  2.00e-11     0s
+  19  -2.66683327e-03 -2.66683361e-03  4.16e-17 1.84e-17  1.80e-13     0s
+
+Barrier solved model in 19 iterations and 0.10 seconds
+Optimal objective -2.66683327e-03
+
+
+Root relaxation: objective -2.666833e-03, 0 iterations, 0.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0026668   -0.00267  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.10 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00266683 -0.000242496 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.666833267837e-03, best bound -2.666833267837e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [2e-03, 8e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -0.000167972
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.58017488e+08 -2.58027962e+08  3.53e+05 1.00e+03  1.00e+06     0s
+   1   2.62586154e+02 -6.18054158e+03  3.59e+02 1.02e+00  1.02e+03     0s
+   2  -6.46875306e-03 -5.16455362e+03  1.33e+00 3.76e-03  6.46e+00     0s
+   3  -3.91557744e-04 -1.71205145e+03  7.38e-02 2.09e-04  1.08e+00     0s
+   4  -5.97623810e-04 -1.49830811e+02  2.22e-03 6.30e-06  8.02e-02     0s
+   5  -5.84461274e-04 -2.43761431e-01  2.21e-06 6.27e-09  1.28e-04     0s
+   6  -6.24830088e-04 -2.05960219e-02  1.81e-07 5.12e-10  1.05e-05     0s
+   7  -6.93073024e-04 -2.00756772e-02  1.75e-07 4.96e-10  1.02e-05     0s
+   8  -8.55982541e-04 -1.78307628e-02  1.53e-07 4.34e-10  8.92e-06     0s
+   9  -1.08619199e-03 -1.69191169e-02  1.43e-07 4.04e-10  8.32e-06     0s
+  10  -1.01380137e-03 -7.06818180e-03  1.43e-13 4.34e-16  3.18e-06     0s
+  11  -1.54686775e-03 -5.40641650e-03  6.63e-14 2.04e-16  2.03e-06     0s
+  12  -1.98983189e-03 -3.87104067e-03  1.65e-14 5.47e-17  9.88e-07     0s
+  13  -2.24853855e-03 -3.48365781e-03  5.02e-15 2.06e-17  6.49e-07     0s
+  14  -2.42719566e-03 -2.98359774e-03  1.76e-15 2.53e-17  2.92e-07     0s
+  15  -2.53487951e-03 -2.76296341e-03  6.25e-17 1.99e-17  1.20e-07     0s
+  16  -2.61171009e-03 -2.63329525e-03  8.33e-17 4.03e-17  1.13e-08     0s
+  17  -2.62081324e-03 -2.62124805e-03  2.08e-17 6.94e-18  2.28e-10     0s
+  18  -2.62102110e-03 -2.62102281e-03  1.39e-17 5.81e-17  8.99e-13     0s
+
+Barrier solved model in 18 iterations and 0.03 seconds
+Optimal objective -2.62102110e-03
+
+
+Root relaxation: objective -2.621021e-03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0026210   -0.00262  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00262102 -0.000167972 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.621021095769e-03, best bound -2.621021095769e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-03, 9e+00]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -9.34491e-05
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.66395057e+08 -2.66405578e+08  3.37e+05 9.98e+02  1.00e+06     0s
+   1   2.70210934e+02 -6.40797087e+03  3.41e+02 1.01e+00  1.02e+03     0s
+   2  -5.47400731e-03 -5.38039244e+03  1.36e+00 4.03e-03  6.84e+00     0s
+   3  -2.28406492e-04 -1.84879658e+03  7.74e-02 2.29e-04  1.17e+00     0s
+   4  -5.73667939e-04 -1.64181272e+02  2.34e-03 6.92e-06  8.80e-02     0s
+   5  -5.61688762e-04 -2.77664297e-01  2.32e-06 6.88e-09  1.46e-04     0s
+   6  -6.00449944e-04 -2.02948478e-02  1.64e-07 4.86e-10  1.03e-05     0s
+   7  -6.73818012e-04 -1.97327717e-02  1.59e-07 4.71e-10  1.00e-05     0s
+   8  -7.99410222e-04 -1.78928345e-02  1.42e-07 4.21e-10  8.98e-06     0s
+   9  -1.04746921e-03 -1.68093149e-02  1.31e-07 3.88e-10  8.28e-06     0s
+  10  -1.19416890e-03 -6.51689457e-03  1.54e-09 4.57e-12  2.80e-06     0s
+  11  -1.56497829e-03 -5.50681471e-03  8.78e-10 2.60e-12  2.07e-06     0s
+  12  -1.74950123e-03 -4.81072775e-03  6.15e-10 1.82e-12  1.61e-06     0s
+  13  -2.06400663e-03 -3.62740807e-03  2.14e-10 6.34e-13  8.21e-07     0s
+  14  -2.29752627e-03 -3.20364906e-03  4.35e-11 1.29e-13  4.76e-07     0s
+  15  -2.47095650e-03 -2.76790695e-03  1.39e-17 1.12e-17  1.56e-07     0s
+  16  -2.55678197e-03 -2.61017137e-03  6.25e-17 1.12e-17  2.80e-08     0s
+  17  -2.57749266e-03 -2.57961525e-03  8.33e-17 2.78e-17  1.11e-09     0s
+  18  -2.57846617e-03 -2.57847304e-03  7.63e-17 3.21e-17  3.61e-12     0s
+
+Barrier solved model in 18 iterations and 0.04 seconds
+Optimal objective -2.57846617e-03
+
+
+Root relaxation: objective -2.578466e-03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0025785   -0.00258  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00257847 -9.34491e-05 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.578466171380e-03, best bound -2.578466171380e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 19:58:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 954 rows, 1899 columns and 8528 nonzeros
+Model has 952 quadratic objective terms
+Variable types: 952 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [5e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [3e-03, 1e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e+00, 1e+03]
+Found heuristic solution: objective -1.89258e-05
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Variable types: 952 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 6 rows, 952 columns, 5687 nonzeros
+Presolved model has 952 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 1.500e+01
+ Factor NZ  : 2.100e+01
+ Factor Ops : 9.100e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.68346999e+08 -2.68357690e+08  3.20e+05 1.00e+03  1.00e+06     0s
+   1   2.72891071e+02 -6.68054641e+03  3.25e+02 1.01e+00  1.02e+03     0s
+   2  -4.24581466e-03 -5.64685597e+03  1.33e+00 4.15e-03  7.09e+00     0s
+   3  -8.97281877e-05 -1.94816267e+03  8.13e-02 2.54e-04  1.24e+00     0s
+   4  -5.66551670e-04 -1.75342509e+02  2.32e-03 7.24e-06  9.40e-02     0s
+   5  -5.55569474e-04 -2.97478898e-01  2.30e-06 7.19e-09  1.56e-04     0s
+   6  -5.94960118e-04 -2.04758513e-02  1.53e-07 4.80e-10  1.04e-05     0s
+   7  -6.70115021e-04 -1.98766366e-02  1.48e-07 4.63e-10  1.01e-05     0s
+   8  -8.34472407e-04 -1.75605641e-02  1.29e-07 4.03e-10  8.78e-06     0s
+   9  -1.11735546e-03 -1.21229807e-02  8.35e-08 2.61e-10  5.78e-06     0s
+  10  -1.41832811e-03 -5.05506618e-03  1.34e-08 4.19e-11  1.91e-06     0s
+  11  -1.70053406e-03 -4.41981287e-03  7.97e-09 2.49e-11  1.43e-06     0s
+  12  -1.99848807e-03 -3.56521018e-03  2.49e-09 7.79e-12  8.23e-07     0s
+  13  -2.20588360e-03 -3.30802310e-03  6.57e-10 2.05e-12  5.79e-07     0s
+  14  -2.36170669e-03 -2.87410986e-03  2.45e-10 7.66e-13  2.69e-07     0s
+  15  -2.49701056e-03 -2.60664649e-03  2.68e-11 8.38e-14  5.76e-08     0s
+  16  -2.52824922e-03 -2.55181329e-03  9.71e-17 3.62e-17  1.24e-08     0s
+  17  -2.53830029e-03 -2.53857588e-03  1.39e-17 1.94e-17  1.45e-10     0s
+  18  -2.53842567e-03 -2.53842686e-03  3.47e-17 2.75e-17  6.29e-13     0s
+
+Barrier solved model in 18 iterations and 0.02 seconds
+Optimal objective -2.53842567e-03
+
+
+Root relaxation: objective -2.538426e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0025384   -0.00254  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00253843 -1.89258e-05 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.538425665960e-03, best bound -2.538425665960e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:07:11 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.000893247
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 957 columns, 10417 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 0 integer (0 binary)
+Presolve time: 0.02s
+Presolved: 11 rows, 957 columns, 10417 nonzeros
+Presolved model has 957 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.54479770e+08 -2.54496435e+08  3.55e+05 9.99e+02  1.00e+06     0s
+   1   2.56327763e+02 -1.36445707e+04  3.58e+02 1.00e+00  1.01e+03     0s
+   2   2.11886315e-03 -1.05835386e+04  1.94e+00 5.46e-03  1.09e+01     0s
+   3  -6.35175725e-04 -3.11201579e+03  1.45e-01 4.08e-04  1.97e+00     0s
+   4  -5.30229644e-04 -2.00648178e+02  8.53e-04 2.40e-06  1.05e-01     0s
+   5  -5.28254043e-04 -2.20485027e-01  8.63e-08 2.43e-10  1.15e-04     0s
+   6  -5.92595137e-04 -2.00585080e-02  7.35e-09 2.07e-11  1.02e-05     0s
+   7  -1.03916846e-03 -1.79679275e-02  5.50e-09 1.55e-11  8.84e-06     0s
+   8  -1.03655603e-03 -1.33608265e-02  5.47e-15 8.65e-17  6.44e-06     0s
+   9  -1.38911222e-03 -5.23581235e-03  3.05e-16 2.86e-17  2.01e-06     0s
+  10  -1.76593256e-03 -3.21842263e-03  1.39e-16 1.39e-17  7.59e-07     0s
+  11  -1.90760093e-03 -2.53689987e-03  1.67e-16 1.39e-17  3.29e-07     0s
+  12  -2.03547412e-03 -2.19690188e-03  4.16e-17 5.55e-17  8.43e-08     0s
+  13  -2.07432295e-03 -2.10093341e-03  5.55e-17 1.39e-17  1.39e-08     0s
+  14  -2.08316067e-03 -2.08399857e-03  0.00e+00 6.94e-18  4.38e-10     0s
+  15  -2.08352274e-03 -2.08352914e-03  6.94e-17 2.78e-17  3.35e-12     0s
+
+Barrier solved model in 15 iterations and 0.02 seconds
+Optimal objective -2.08352274e-03
+
+
+Root relaxation: objective -2.083523e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0020835   -0.00208  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208352 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083522736673e-03, best bound -2.083522736673e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:08:25 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083439e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0020834   -0.00208  0.00%     -    0s
+
+Explored 1 nodes (1274 simplex iterations) in 0.14 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208344 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083439281734e-03, best bound -2.083439281734e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:09:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083439e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0016191   -0.00208  28.7%     -    0s
+     0     2   -0.00208    0  164   -0.00162   -0.00208  28.7%     -    0s
+H  272   272                      -0.0020444   -0.00208  1.91%   6.3    1s
+H  279   279                      -0.0020492   -0.00208  1.67%   6.3    1s
+H  328   325                      -0.0020525   -0.00208  1.51%   6.4    1s
+H  340   335                      -0.0020574   -0.00208  1.27%   6.5    1s
+H  382   350                      -0.0020655   -0.00208  0.87%   6.5    1s
+H  624   513                      -0.0020655   -0.00208  0.87%   5.9    2s
+  1217   833   -0.00207   65  115   -0.00207   -0.00208  0.87%   7.9    5s
+H 1410   929                      -0.0020660   -0.00208  0.84%   7.8    5s
+H 1581   944                      -0.0020681   -0.00208  0.74%   7.6    5s
+H 1622   842                      -0.0020699   -0.00208  0.65%   7.6    5s
+H 1816   834                      -0.0020706   -0.00208  0.62%   7.4    6s
+H 1888   223                      -0.0020813   -0.00208  0.10%   7.2    7s
+H 2046   247                      -0.0020813   -0.00208  0.10%   6.9    7s
+H 2050   242                      -0.0020814   -0.00208  0.10%   6.9    7s
+H 2136   311                      -0.0020815   -0.00208  0.09%   7.0    8s
+  2876   671   -0.00208  138   36   -0.00208   -0.00208  0.09%   6.7   10s
+  6575  2639   -0.00208  152   23   -0.00208   -0.00208  0.09%   6.3   15s
+ 10132  4535   -0.00208  177   13   -0.00208   -0.00208  0.09%   6.3   20s
+ 13770  6327   -0.00208  162   22   -0.00208   -0.00208  0.09%   6.3   25s
+H15106  5559                      -0.0020818   -0.00208  0.07%   6.3   28s
+ 15176  5585   -0.00208  173   16   -0.00208   -0.00208  0.07%   6.3   30s
+ 17684  6756   -0.00208  130   50   -0.00208   -0.00208  0.07%   6.3   35s
+ 20693  8258   -0.00208  129   45   -0.00208   -0.00208  0.07%   6.3   40s
+ 23231  9430   -0.00208  181   15   -0.00208   -0.00208  0.07%   6.3   45s
+ 27206 11266   -0.00208  155   20   -0.00208   -0.00208  0.07%   6.3   50s
+ 30687 13090     cutoff  184        -0.00208   -0.00208  0.07%   6.3   55s
+ 34413 15036   -0.00208  155   20   -0.00208   -0.00208  0.07%   6.4   60s
+ 38314 16967   -0.00208  174   10   -0.00208   -0.00208  0.07%   6.3   65s
+ 41806 18823   -0.00208  168   13   -0.00208   -0.00208  0.07%   6.3   70s
+ 45724 20928     cutoff  187        -0.00208   -0.00208  0.07%   6.4   75s
+ 48996 22690   -0.00208  168   13   -0.00208   -0.00208  0.07%   6.4   80s
+H49084 22530                      -0.0020819   -0.00208  0.07%   6.4   80s
+ 51533 23829   -0.00208  160   16   -0.00208   -0.00208  0.07%   6.4   85s
+ 55471 25766     cutoff  170        -0.00208   -0.00208  0.07%   6.4   90s
+ 58676 27359   -0.00208  173   14   -0.00208   -0.00208  0.07%   6.5   95s
+ 62534 29328   -0.00208  154   21   -0.00208   -0.00208  0.07%   6.5  100s
+ 66483 31155   -0.00208  174    8   -0.00208   -0.00208  0.07%   6.5  105s
+ 70223 32854   -0.00208  169   12   -0.00208   -0.00208  0.07%   6.4  110s
+ 74032 34651     cutoff  173        -0.00208   -0.00208  0.07%   6.4  115s
+ 77829 36344   -0.00208  165   12   -0.00208   -0.00208  0.06%   6.4  120s
+ 80139 37360   -0.00208  172   11   -0.00208   -0.00208  0.06%   6.4  126s
+ 81202 37740   -0.00208  167   13   -0.00208   -0.00208  0.06%   6.4  130s
+ 83127 38711   -0.00208  154   20   -0.00208   -0.00208  0.06%   6.4  135s
+ 86135 40153     cutoff  189        -0.00208   -0.00208  0.06%   6.4  140s
+ 89881 41981     cutoff  184        -0.00208   -0.00208  0.06%   6.4  145s
+ 93702 43850     cutoff  180        -0.00208   -0.00208  0.06%   6.4  150s
+ 96894 45459   -0.00208  171   11   -0.00208   -0.00208  0.06%   6.4  156s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:12:45 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000893247
+Presolve time: 0.03s
+Presolved: 959 rows, 1904 columns, 13258 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.083439e-03, 1274 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00208    0  164    0.00089   -0.00208   333%     -    0s
+H    0     0                      -0.0016191   -0.00208  28.7%     -    0s
+     0     2   -0.00208    0  164   -0.00162   -0.00208  28.7%     -    0s
+H  272   272                      -0.0020444   -0.00208  1.91%   6.3    1s
+H  279   279                      -0.0020492   -0.00208  1.67%   6.3    1s
+H  328   325                      -0.0020525   -0.00208  1.51%   6.4    1s
+H  340   335                      -0.0020574   -0.00208  1.27%   6.5    1s
+H  367   342                      -0.0020682   -0.00208  0.73%   6.6    2s
+H  633   452                      -0.0020682   -0.00208  0.73%   5.4    2s
+  1124   686   -0.00207   53  127   -0.00207   -0.00208  0.73%   7.6    5s
+H 1450   839                      -0.0020683   -0.00208  0.73%   7.6    5s
+H 1456   810                      -0.0020683   -0.00208  0.73%   7.6    5s
+H 1523   813                      -0.0020683   -0.00208  0.73%   7.5    5s
+H 1526   789                      -0.0020683   -0.00208  0.73%   7.5    5s
+H 1551   771                      -0.0020684   -0.00208  0.73%   7.5    6s
+H 1715   791                      -0.0020686   -0.00208  0.72%   7.2    6s
+H 1765   641                      -0.0020714   -0.00208  0.58%   7.2    6s
+* 1862   711             201      -0.0020714   -0.00208  0.58%   7.1    6s
+H 1902   683                      -0.0020722   -0.00208  0.54%   7.0    6s
+H 2049   254                      -0.0020813   -0.00208  0.10%   6.8    7s
+H 2144   176                      -0.0020825   -0.00208  0.04%   6.7    8s
+H 2156   103                      -0.0020828   -0.00208  0.03%   6.7    8s
+H 2428   186                      -0.0020828   -0.00208  0.03%   6.5    9s
+* 2440   181             196      -0.0020829   -0.00208  0.03%   6.5    9s
+  3111   450   -0.00208  161   14   -0.00208   -0.00208  0.03%   6.3   10s
+H 4910  1115                      -0.0020829   -0.00208  0.03%   6.5   12s
+  6766  1881     cutoff  176        -0.00208   -0.00208  0.03%   6.5   15s
+ 10151  3265   -0.00208  165   17   -0.00208   -0.00208  0.02%   6.5   20s
+H12279  3897                      -0.0020829   -0.00208  0.02%   6.6   22s
+H12596  4016                      -0.0020829   -0.00208  0.02%   6.6   22s
+ 14309  4642     cutoff  181        -0.00208   -0.00208  0.02%   6.4   25s
+ 17415  5743     cutoff  184        -0.00208   -0.00208  0.02%   6.3   30s
+ 20954  6907   -0.00208  176    7   -0.00208   -0.00208  0.02%   6.1   36s
+ 23616  7791     cutoff  159        -0.00208   -0.00208  0.02%   6.1   40s
+ 25595  8450     cutoff  177        -0.00208   -0.00208  0.02%   6.0   45s
+H25596  8405                      -0.0020829   -0.00208  0.02%   6.0   45s
+ 27651  9034   -0.00208  165   11   -0.00208   -0.00208  0.02%   6.0   50s
+ 30994 10083   -0.00208  180    5   -0.00208   -0.00208  0.02%   5.9   55s
+ 33745 10895   -0.00208  166   16   -0.00208   -0.00208  0.02%   5.9   60s
+ 36684 11734     cutoff  181        -0.00208   -0.00208  0.02%   5.9   65s
+ 40192 12712   -0.00208  173    7   -0.00208   -0.00208  0.02%   5.8   70s
+ 43406 13484   -0.00208  171   10   -0.00208   -0.00208  0.02%   5.8   75s
+ 47391 14660     cutoff  175        -0.00208   -0.00208  0.02%   5.8   80s
+ 51216 15556     cutoff  177        -0.00208   -0.00208  0.02%   5.8   85s
+ 54656 16534     cutoff  178        -0.00208   -0.00208  0.02%   5.8   90s
+ 58048 17516   -0.00208  178    7   -0.00208   -0.00208  0.02%   5.8   95s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:15:24 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.000724682
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.02s
+Presolved: 21 rows, 967 columns, 19907 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 0 integer (0 binary)
+Presolve time: 0.03s
+Presolved: 21 rows, 967 columns, 19907 nonzeros
+Presolved model has 967 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 2.100e+02
+ Factor NZ  : 2.310e+02
+ Factor Ops : 3.311e+03 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.59116902e+08 -2.59136025e+08  1.92e+05 9.99e+02  1.00e+06     0s
+   1   2.60762855e+02 -1.54732127e+04  1.93e+02 1.01e+00  1.01e+03     0s
+   2   2.64830801e-03 -1.21396345e+04  1.35e+00 7.04e-03  1.32e+01     0s
+   3  -1.41285787e-03 -4.38147026e+03  1.12e-01 5.83e-04  2.84e+00     0s
+   4  -5.67800871e-04 -6.48508853e+02  1.12e-07 5.83e-10  3.35e-01     0s
+   5  -5.67822624e-04 -6.74421085e-01  4.37e-12 2.73e-12  3.48e-04     0s
+   6  -5.84601093e-04 -2.62419858e-02  1.60e-13 9.94e-14  1.33e-05     0s
+   7  -8.81718381e-04 -2.11584759e-02  1.15e-13 7.14e-14  1.05e-05     0s
+   8  -1.22942167e-03 -5.21548299e-03  7.17e-15 4.50e-15  2.06e-06     0s
+   9  -1.80824959e-03 -3.41977292e-03  1.39e-17 3.14e-17  8.33e-07     0s
+  10  -2.02766755e-03 -2.46903404e-03  1.39e-17 2.78e-17  2.28e-07     0s
+  11  -2.11471136e-03 -2.22857189e-03  4.16e-17 3.25e-17  5.89e-08     0s
+  12  -2.14760633e-03 -2.15601019e-03  8.33e-17 5.55e-17  4.35e-09     0s
+  13  -2.15097332e-03 -2.15108810e-03  8.33e-17 2.28e-17  5.93e-11     0s
+  14  -2.15103427e-03 -2.15103605e-03  9.71e-17 5.55e-17  9.21e-13     0s
+
+Barrier solved model in 14 iterations and 0.06 seconds
+Optimal objective -2.15103427e-03
+
+
+Root relaxation: objective -2.151034e-03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0021510   -0.00215  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00215103 0.000724682 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.151034267410e-03, best bound -2.151034267410e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:16:36 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000724682
+Presolve time: 0.04s
+Presolved: 969 rows, 1914 columns, 22748 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.151023e-03, 1333 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00215    0  156    0.00072   -0.00215   397%     -    0s
+H    0     0                      -0.0020824   -0.00215  3.29%     -    0s
+     0     2   -0.00215    0  156   -0.00208   -0.00215  3.29%     -    0s
+H   85    88                      -0.0021318   -0.00215  0.90%   3.4    1s
+H  110   105                      -0.0021359   -0.00215  0.71%   3.6    1s
+H  135   127                      -0.0021362   -0.00215  0.70%   3.9    1s
+H  178    12                      -0.0021501   -0.00215  0.04%   4.0    1s
+H  204    12                      -0.0021502   -0.00215  0.04%   4.2    1s
+H  233    11                      -0.0021504   -0.00215  0.03%   4.2    1s
+H  244     6                      -0.0021505   -0.00215  0.03%   4.1    1s
+H  262     6                      -0.0021506   -0.00215  0.02%   4.1    1s
+H  293     6                      -0.0021506   -0.00215  0.02%   4.0    1s
+H  306     7                      -0.0021506   -0.00215  0.02%   3.9    1s
+H  319     7                      -0.0021507   -0.00215  0.02%   3.8    1s
+H  331     8                      -0.0021507   -0.00215  0.01%   3.9    1s
+H  364     8                      -0.0021508   -0.00215  0.01%   3.7    1s
+H  380     7                      -0.0021509   -0.00215  0.01%   3.7    2s
+
+Explored 397 nodes (2797 simplex iterations) in 2.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00215086 -0.0021508 -0.00215073 ... -0.00215023
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.150861961217e-03, best bound -2.151022968506e-03, gap 0.0075%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:18:17 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000724682
+Presolve time: 0.04s
+Presolved: 969 rows, 1914 columns, 22748 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.151023e-03, 1333 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00215    0  156    0.00072   -0.00215   397%     -    0s
+H    0     0                      -0.0020824   -0.00215  3.29%     -    0s
+     0     2   -0.00215    0  156   -0.00208   -0.00215  3.29%     -    0s
+H   85    88                      -0.0021318   -0.00215  0.90%   3.4    1s
+H  110   105                      -0.0021359   -0.00215  0.71%   3.6    1s
+H  135   127                      -0.0021362   -0.00215  0.70%   3.9    1s
+H  178    12                      -0.0021501   -0.00215  0.04%   4.0    1s
+H  204    12                      -0.0021502   -0.00215  0.04%   4.2    1s
+H  231    11                      -0.0021504   -0.00215  0.03%   4.2    1s
+H  242     7                      -0.0021505   -0.00215  0.03%   4.1    1s
+H  260     6                      -0.0021506   -0.00215  0.02%   4.1    1s
+H  290     9                      -0.0021506   -0.00215  0.02%   4.1    1s
+H  297     8                      -0.0021507   -0.00215  0.01%   4.0    1s
+H  331     7                      -0.0021508   -0.00215  0.01%   3.9    1s
+H  347     7                      -0.0021509   -0.00215  0.01%   3.9    1s
+
+Explored 362 nodes (2723 simplex iterations) in 1.85 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00215086 -0.0021508 -0.00215073 ... -0.00213616
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.150861961217e-03, best bound -2.151022968506e-03, gap 0.0075%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:19:21 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 969 rows, 1914 columns and 22748 nonzeros
+Model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [4e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.000724682
+Presolve time: 0.04s
+Presolved: 969 rows, 1914 columns, 22748 nonzeros
+Presolved model has 967 quadratic objective terms
+Variable types: 967 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -2.151023e-03, 1333 iterations, 0.13 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00215    0  156    0.00072   -0.00215   397%     -    0s
+H    0     0                      -0.0020824   -0.00215  3.29%     -    0s
+     0     2   -0.00215    0  156   -0.00208   -0.00215  3.29%     -    0s
+H   85    88                      -0.0021318   -0.00215  0.90%   3.4    1s
+H  110   105                      -0.0021359   -0.00215  0.71%   3.6    1s
+H  135   127                      -0.0021362   -0.00215  0.70%   3.9    1s
+H  176    12                      -0.0021501   -0.00215  0.04%   4.0    1s
+H  201    12                      -0.0021502   -0.00215  0.04%   4.3    1s
+H  234    11                      -0.0021504   -0.00215  0.03%   4.2    1s
+H  245     7                      -0.0021505   -0.00215  0.03%   4.1    1s
+H  259     6                      -0.0021506   -0.00215  0.02%   4.1    1s
+H  290     6                      -0.0021506   -0.00215  0.02%   4.0    1s
+H  305     7                      -0.0021506   -0.00215  0.02%   3.9    1s
+H  316     7                      -0.0021507   -0.00215  0.02%   3.9    1s
+H  329     8                      -0.0021507   -0.00215  0.01%   3.9    1s
+H  362     8                      -0.0021508   -0.00215  0.01%   3.8    1s
+H  378     7                      -0.0021509   -0.00215  0.01%   3.7    1s
+
+Explored 395 nodes (2807 simplex iterations) in 1.95 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00215086 -0.0021508 -0.00215073 ... -0.00215023
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.150861961217e-03, best bound -2.151022968506e-03, gap 0.0075%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:20:29 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.00148662
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.69005141e+08 -2.69016448e+08  3.34e+05 9.91e+02  1.00e+06     0s
+   1   2.71026114e+02 -9.51116057e+03  3.36e+02 9.98e-01  1.01e+03     0s
+   2   2.23315727e-03 -8.80490586e+03  1.87e+00 5.54e-03  1.02e+01     0s
+   3  -2.60265871e-04 -2.43012715e+03  3.17e-02 9.38e-05  1.36e+00     0s
+   4  -3.18467383e-04 -3.64171548e+01  1.05e-04 3.11e-07  1.92e-02     0s
+   5  -3.19785743e-04 -1.07390716e-01  3.08e-07 9.14e-10  5.64e-05     0s
+   6  -4.16114066e-04 -2.63478603e-02  7.27e-08 2.15e-10  1.36e-05     0s
+   7  -5.66369244e-04 -2.36235976e-02  5.00e-08 1.48e-10  1.21e-05     0s
+   8  -6.14971209e-04 -2.31848649e-02  4.90e-08 1.45e-10  1.19e-05     0s
+   9  -8.97685364e-04 -1.95567773e-02  3.45e-08 1.02e-10  9.82e-06     0s
+  10  -1.05415870e-03 -5.49372398e-03  6.37e-09 1.89e-11  2.34e-06     0s
+  11  -1.44921254e-03 -5.12684999e-03  1.41e-09 4.17e-12  1.94e-06     0s
+  12  -1.59924449e-03 -3.15889675e-03  2.89e-10 8.58e-13  8.21e-07     0s
+  13  -1.74569163e-03 -2.27971544e-03  3.14e-11 9.30e-14  2.81e-07     0s
+  14  -1.86144403e-03 -2.00926323e-03  2.78e-17 2.81e-18  7.78e-08     0s
+  15  -1.90043093e-03 -1.91009904e-03  1.39e-16 1.26e-17  5.09e-09     0s
+  16  -1.90437806e-03 -1.90458763e-03  1.67e-16 9.11e-18  1.10e-10     0s
+  17  -1.90448210e-03 -1.90448575e-03  5.55e-17 1.39e-17  1.92e-12     0s
+
+Barrier solved model in 17 iterations and 0.02 seconds
+Optimal objective -1.90448210e-03
+
+
+Root relaxation: objective -1.904482e-03, 0 iterations, 0.02 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0019045   -0.00190  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00190448 0.00148662 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.904482096912e-03, best bound -1.904482096912e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:20:50 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 3e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.00113811
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.02s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.62075487e+08 -2.62086233e+08  3.60e+05 9.99e+02  1.00e+06     0s
+   1   2.63407917e+02 -8.84366056e+03  3.62e+02 1.00e+00  1.01e+03     0s
+   2  -2.83474995e-04 -8.16217141e+03  1.76e+00 4.90e-03  9.16e+00     0s
+   3  -4.21709866e-04 -2.17281036e+03  4.20e-02 1.16e-04  1.24e+00     0s
+   4  -4.24470875e-04 -5.64853728e+01  2.91e-04 8.08e-07  2.98e-02     0s
+   5  -4.24433568e-04 -1.34830501e-01  6.91e-07 1.92e-09  7.07e-05     0s
+   6  -5.04125282e-04 -2.63018628e-02  1.30e-07 3.61e-10  1.36e-05     0s
+   7  -6.68542057e-04 -2.41946665e-02  8.84e-08 2.46e-10  1.24e-05     0s
+   8  -9.71974609e-04 -2.33524632e-02  6.24e-08 1.73e-10  1.18e-05     0s
+   9  -1.12538570e-03 -5.64019162e-03  1.16e-08 3.21e-11  2.38e-06     0s
+  10  -1.23095945e-03 -5.27421101e-03  9.42e-09 2.61e-11  2.13e-06     0s
+  11  -1.63013103e-03 -3.53707002e-03  9.46e-15 2.94e-17  1.00e-06     0s
+  12  -1.79260310e-03 -2.43655175e-03  2.78e-17 1.39e-17  3.39e-07     0s
+  13  -1.91734368e-03 -2.15264941e-03  5.55e-17 1.04e-17  1.24e-07     0s
+  14  -1.97325076e-03 -2.00699020e-03  1.94e-16 7.59e-18  1.78e-08     0s
+  15  -1.98462211e-03 -1.98574738e-03  5.55e-17 6.94e-18  5.92e-10     0s
+  16  -1.98513157e-03 -1.98515651e-03  4.16e-17 1.82e-17  1.31e-11     0s
+  17  -1.98514510e-03 -1.98514570e-03  1.39e-17 3.04e-18  3.14e-13     0s
+
+Barrier solved model in 17 iterations and 0.05 seconds
+Optimal objective -1.98514510e-03
+
+
+Root relaxation: objective -1.985145e-03, 0 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0019851   -0.00199  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00198515 0.00113811 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.985145102858e-03, best bound -1.985145102858e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:21:39 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.00148662
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.02s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.69005141e+08 -2.69016448e+08  3.34e+05 9.91e+02  1.00e+06     0s
+   1   2.71026114e+02 -9.51116057e+03  3.36e+02 9.98e-01  1.01e+03     0s
+   2   2.23315727e-03 -8.80490586e+03  1.87e+00 5.54e-03  1.02e+01     0s
+   3  -2.60265871e-04 -2.43012715e+03  3.17e-02 9.38e-05  1.36e+00     0s
+   4  -3.18467383e-04 -3.64171548e+01  1.05e-04 3.11e-07  1.92e-02     0s
+   5  -3.19785743e-04 -1.07390716e-01  3.08e-07 9.14e-10  5.64e-05     0s
+   6  -4.16114066e-04 -2.63478603e-02  7.27e-08 2.15e-10  1.36e-05     0s
+   7  -5.66369244e-04 -2.36235976e-02  5.00e-08 1.48e-10  1.21e-05     0s
+   8  -6.14971209e-04 -2.31848649e-02  4.90e-08 1.45e-10  1.19e-05     0s
+   9  -8.97685364e-04 -1.95567773e-02  3.45e-08 1.02e-10  9.82e-06     0s
+  10  -1.05415870e-03 -5.49372398e-03  6.37e-09 1.89e-11  2.34e-06     0s
+  11  -1.44921254e-03 -5.12684999e-03  1.41e-09 4.17e-12  1.94e-06     0s
+  12  -1.59924449e-03 -3.15889675e-03  2.89e-10 8.58e-13  8.21e-07     0s
+  13  -1.74569163e-03 -2.27971544e-03  3.14e-11 9.30e-14  2.81e-07     0s
+  14  -1.86144403e-03 -2.00926323e-03  8.33e-17 1.39e-17  7.78e-08     0s
+  15  -1.90043093e-03 -1.91009904e-03  1.80e-16 2.60e-18  5.09e-09     0s
+  16  -1.90437806e-03 -1.90458763e-03  8.33e-17 1.39e-17  1.10e-10     0s
+  17  -1.90448210e-03 -1.90448575e-03  2.60e-18 2.81e-18  1.92e-12     0s
+
+Barrier solved model in 17 iterations and 0.05 seconds
+Optimal objective -1.90448210e-03
+
+
+Root relaxation: objective -1.904482e-03, 0 iterations, 0.04 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0019045   -0.00190  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00190448 0.00148662 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.904482096912e-03, best bound -1.904482096912e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:22:07 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 3e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.00127751
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.00s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 4 rows, 950 columns, 3791 nonzeros
+Presolved model has 950 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 6.000e+00
+ Factor NZ  : 1.000e+01
+ Factor Ops : 3.000e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.64948551e+08 -2.64959510e+08  3.49e+05 9.96e+02  1.00e+06     0s
+   1   2.66559137e+02 -9.11674756e+03  3.51e+02 1.00e+00  1.01e+03     0s
+   2   7.04231144e-04 -8.42559714e+03  1.81e+00 5.16e-03  9.57e+00     0s
+   3  -4.00419474e-04 -2.28228915e+03  4.08e-02 1.16e-04  1.30e+00     0s
+   4  -4.08752116e-04 -5.53771664e+01  2.57e-04 7.34e-07  2.92e-02     0s
+   5  -4.09037532e-04 -1.39208016e-01  6.44e-07 1.84e-09  7.31e-05     0s
+   6  -4.95005034e-04 -2.60318705e-02  1.16e-07 3.30e-10  1.34e-05     0s
+   7  -6.58359799e-04 -2.39711017e-02  7.93e-08 2.26e-10  1.23e-05     0s
+   8  -9.17520212e-04 -2.27624718e-02  7.06e-08 2.02e-10  1.15e-05     0s
+   9  -1.08319493e-03 -9.09993306e-03  7.04e-14 2.18e-16  4.22e-06     0s
+  10  -1.41599470e-03 -3.66918660e-03  7.61e-15 2.78e-17  1.19e-06     0s
+  11  -1.66748695e-03 -2.63606368e-03  1.50e-15 1.39e-17  5.10e-07     0s
+  12  -1.86715660e-03 -2.18257186e-03  2.22e-16 6.94e-18  1.66e-07     0s
+  13  -1.93240026e-03 -1.98835582e-03  1.25e-16 1.39e-17  2.95e-08     0s
+  14  -1.94887177e-03 -1.95471477e-03  6.94e-17 2.35e-18  3.08e-09     0s
+  15  -1.95106031e-03 -1.95113130e-03  5.55e-17 1.47e-17  3.74e-11     0s
+  16  -1.95109366e-03 -1.95109508e-03  2.78e-17 1.39e-17  7.45e-13     0s
+
+Barrier solved model in 16 iterations and 0.02 seconds
+Optimal objective -1.95109366e-03
+
+
+Root relaxation: objective -1.951094e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0019511   -0.00195  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00195109 0.00127751 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.951093661933e-03, best bound -1.951093661933e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:22:25 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 3e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.00127751
+Presolve time: 0.03s
+Presolved: 952 rows, 1897 columns, 6632 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -1.951024e-03, 1206 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00195    0  174    0.00128   -0.00195   253%     -    0s
+H    0     0                      -0.0019510   -0.00195  0.00%     -    0s
+
+Explored 1 nodes (1206 simplex iterations) in 0.15 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00195102 0.00127751 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.951024064720e-03, best bound -1.951024064720e-03, gap 0.0000%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:22:53 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 3e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.00127751
+Presolve time: 0.05s
+Presolved: 952 rows, 1897 columns, 6632 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -1.951024e-03, 1206 iterations, 0.12 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00195    0  174    0.00128   -0.00195   253%     -    0s
+H    0     0                       0.0010548   -0.00195   285%     -    0s
+H    0     0                      -0.0007756   -0.00195   152%     -    0s
+H    0     0                      -0.0008367   -0.00195   133%     -    0s
+     0     2   -0.00195    0  174   -0.00084   -0.00195   133%     -    0s
+H    6     8                      -0.0015923   -0.00195  22.5%  11.0    0s
+H  133   130                      -0.0018083   -0.00195  7.89%   5.6    1s
+H  135   133                      -0.0018107   -0.00195  7.75%   6.9    1s
+H  265   255                      -0.0019367   -0.00195  0.74%   8.1    1s
+H  286   259                      -0.0019392   -0.00195  0.61%   7.7    1s
+H  404   362                      -0.0019394   -0.00195  0.60%   6.7    1s
+H  548   463                      -0.0019411   -0.00195  0.51%   6.2    1s
+H  568   320                      -0.0019466   -0.00195  0.23%   6.1    1s
+H 2243    16                      -0.0019507   -0.00195  0.01%   7.1    4s
+H 2268    16                      -0.0019509   -0.00195  0.00%   7.1    4s
+
+Explored 2269 nodes (17306 simplex iterations) in 4.47 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 10: -0.00195093 -0.00195073 -0.00194656 ... -0.00159234
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.950934333859e-03, best bound -1.951024064720e-03, gap 0.0046%
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:23:16 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 952 rows, 1897 columns and 6632 nonzeros
+Model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-05, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [1e-02, 3e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 2e+02]
+Found heuristic solution: objective 0.00127751
+Presolve time: 0.04s
+Presolved: 952 rows, 1897 columns, 6632 nonzeros
+Presolved model has 950 quadratic objective terms
+Variable types: 950 continuous, 947 integer (947 binary)
+
+Root relaxation: objective -1.951024e-03, 1206 iterations, 0.11 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   -0.00195    0  174    0.00128   -0.00195   253%     -    0s
+H    0     0                      -0.0018843   -0.00195  3.54%     -    0s
+     0     2   -0.00195    0  174   -0.00188   -0.00195  3.54%     -    0s
+H  200   189                      -0.0018941   -0.00195  3.01%   9.1    0s
+H  203   192                      -0.0019036   -0.00195  2.49%   9.0    0s
+H  276   263                      -0.0019162   -0.00195  1.82%   7.8    0s
+H  283   268                      -0.0019211   -0.00195  1.56%   7.7    0s
+H  332   323                      -0.0019284   -0.00195  1.17%   7.5    0s
+H  376   338                      -0.0019305   -0.00195  1.06%   7.2    0s
+*  709   576             221      -0.0019305   -0.00195  1.06%   5.8    1s
+H 1469   853                      -0.0019388   -0.00195  0.63%   6.1    2s
+* 1930   901             170      -0.0019404   -0.00195  0.55%   5.8    2s
+H 1993   869                      -0.0019407   -0.00195  0.53%   5.9    3s
+H 2894   826                      -0.0019420   -0.00195  0.46%   5.5    3s
+H 3009   876                      -0.0019422   -0.00195  0.46%   5.4    4s
+H 3201   971                      -0.0019425   -0.00195  0.44%   5.3    4s
+H 3312   989                      -0.0019426   -0.00195  0.43%   5.3    4s
+  3440  1046     cutoff  211        -0.00194   -0.00195  0.43%   5.2    5s
+* 4579  1343             208      -0.0019431   -0.00195  0.41%   5.3    5s
+H 4605  1323                      -0.0019434   -0.00195  0.39%   5.3    6s
+* 4655  1096             204      -0.0019454   -0.00195  0.29%   5.3    6s
+H 5248   703                      -0.0019481   -0.00195  0.15%   5.1    7s
+H 5252   661                      -0.0019483   -0.00195  0.14%   5.1    7s
+H 5253   633                      -0.0019483   -0.00195  0.14%   5.1    7s
+H 6014   806                      -0.0019484   -0.00195  0.14%   5.0    7s
+* 6020   805             199      -0.0019484   -0.00195  0.14%   5.0    7s
+* 6026   801             199      -0.0019484   -0.00195  0.14%   5.0    7s
+* 6036   752             199      -0.0019485   -0.00195  0.13%   5.0    7s
+* 6276   729             198      -0.0019486   -0.00195  0.12%   5.0    8s
+* 7028  1076             205      -0.0019486   -0.00195  0.12%   4.9    8s
+* 7299  1211             205      -0.0019487   -0.00195  0.12%   4.9    8s
+H 7705  1216                      -0.0019490   -0.00195  0.11%   4.9    9s
+H 7708  1210                      -0.0019490   -0.00195  0.10%   4.9    9s
+H 7709  1208                      -0.0019490   -0.00195  0.10%   4.9    9s
+  7996  1288   -0.00195  141   43   -0.00195   -0.00195  0.10%   4.9   10s
+* 9560  1949             205      -0.0019491   -0.00195  0.10%   4.9   11s
+H10129  2159                      -0.0019491   -0.00195  0.10%   4.8   12s
+H10131  2124                      -0.0019492   -0.00195  0.09%   4.8   12s
+H11226  2129                      -0.0019492   -0.00195  0.09%   5.5   14s
+ 11618  2052   -0.00195   96   49   -0.00195   -0.00195  0.09%   5.5   15s
+H11864  1950                      -0.0019492   -0.00195  0.09%   5.5   15s
+ 17867  3262     cutoff   91        -0.00195   -0.00195  0.08%   5.3   20s
+ 24782  6856   -0.00195  134   14   -0.00195   -0.00195  0.08%   5.0   25s
+ 31915 10767   -0.00195  126   29   -0.00195   -0.00195  0.08%   4.9   30s
+ 38563 14785     cutoff  147        -0.00195   -0.00195  0.08%   4.8   35s
+ 44451 18240   -0.00195  120   12   -0.00195   -0.00195  0.08%   4.8   40s
+ 50203 21485   -0.00195  116   29   -0.00195   -0.00195  0.08%   4.8   45s
+ 56962 25287   -0.00195  109   36   -0.00195   -0.00195  0.08%   4.7   50s
+ 65149 30104   -0.00195  117   35   -0.00195   -0.00195  0.08%   4.7   55s
+H68587 29960                      -0.0019493   -0.00195  0.07%   4.7   57s
+ 72234 32009     cutoff  149        -0.00195   -0.00195  0.07%   4.7   60s
+ 79445 36206     cutoff  138        -0.00195   -0.00195  0.07%   4.7   65s
+ 87283 40297   -0.00195  117   27   -0.00195   -0.00195  0.07%   4.7   70s
+ 94949 44738   -0.00195  150   11   -0.00195   -0.00195  0.07%   4.6   75s
+ 102106 48840     cutoff  133        -0.00195   -0.00195  0.07%   4.6   80s
+ 107887 52230   -0.00195  150   10   -0.00195   -0.00195  0.07%   4.6   85s
+ 110829 53958   -0.00195  129   28   -0.00195   -0.00195  0.07%   4.6   90s
+ 115505 56690     cutoff  149        -0.00195   -0.00195  0.07%   4.6   95s
+H118352 57843                      -0.0019493   -0.00195  0.07%   4.6   98s
+H118431 55203                      -0.0019493   -0.00195  0.07%   4.6   99s
+ 119338 55690     cutoff  126        -0.00195   -0.00195  0.07%   4.6  100s
+ 126478 59406   -0.00195  135    7   -0.00195   -0.00195  0.07%   4.6  105s
+ 131716 62395   -0.00195  118   26   -0.00195   -0.00195  0.07%   4.6  110s
+ 138048 65857   -0.00195  120   25   -0.00195   -0.00195  0.07%   4.6  115s
+ 142845 68716   -0.00195  119   25   -0.00195   -0.00195  0.07%   4.6  120s
+
+Gurobi 7.5.1 (mac64) logging started Sun Nov 26 20:26:26 2017
+
+Academic license - for non-commercial use only
+Warning: constraint name "0th constraint" has a space
+Optimize a model with 959 rows, 1904 columns and 13268 nonzeros
+Model has 957 quadratic objective terms
+Variable types: 957 continuous, 947 integer (947 binary)
+Coefficient statistics:
+  Matrix range     [2e-06, 1e+00]
+  Objective range  [9e-07, 1e-02]
+  QObjective range [5e-03, 4e+01]
+  Bounds range     [2e-02, 1e+03]
+  RHS range        [1e-05, 1e+03]
+Found heuristic solution: objective 0.000893247
+Presolve removed 948 rows and 947 columns
+Presolve time: 0.01s
+Presolved: 11 rows, 957 columns, 10417 nonzeros
+Presolved model has 957 quadratic objective terms
+Variable types: 957 continuous, 0 integer (0 binary)
+Presolve time: 0.01s
+Presolved: 11 rows, 957 columns, 10417 nonzeros
+Presolved model has 957 quadratic objective terms
+Root barrier log...
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 5.500e+01
+ Factor NZ  : 6.600e+01
+ Factor Ops : 5.060e+02 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   2.54479770e+08 -2.54496435e+08  3.55e+05 9.99e+02  1.00e+06     0s
+   1   2.56327763e+02 -1.36445707e+04  3.58e+02 1.00e+00  1.01e+03     0s
+   2   2.11886315e-03 -1.05835386e+04  1.94e+00 5.46e-03  1.09e+01     0s
+   3  -6.35175725e-04 -3.11201579e+03  1.45e-01 4.08e-04  1.97e+00     0s
+   4  -5.30229644e-04 -2.00648178e+02  8.53e-04 2.40e-06  1.05e-01     0s
+   5  -5.28254043e-04 -2.20485027e-01  8.63e-08 2.42e-10  1.15e-04     0s
+   6  -5.92595137e-04 -2.00585080e-02  7.35e-09 2.06e-11  1.02e-05     0s
+   7  -1.03916846e-03 -1.79679275e-02  5.50e-09 1.54e-11  8.84e-06     0s
+   8  -1.03655603e-03 -1.33608265e-02  5.88e-15 5.48e-17  6.44e-06     0s
+   9  -1.38911222e-03 -5.23581235e-03  3.89e-16 2.01e-17  2.01e-06     0s
+  10  -1.76593256e-03 -3.21842263e-03  8.33e-17 1.39e-17  7.59e-07     0s
+  11  -1.90760093e-03 -2.53689987e-03  5.55e-17 2.78e-17  3.29e-07     0s
+  12  -2.03547412e-03 -2.19690188e-03  5.55e-17 2.36e-17  8.43e-08     0s
+  13  -2.07432295e-03 -2.10093341e-03  8.33e-17 1.39e-17  1.39e-08     0s
+  14  -2.08316067e-03 -2.08399857e-03  1.39e-17 3.06e-17  4.38e-10     0s
+  15  -2.08352274e-03 -2.08352914e-03  9.71e-17 5.55e-17  3.35e-12     0s
+
+Barrier solved model in 15 iterations and 0.02 seconds
+Optimal objective -2.08352274e-03
+
+
+Root relaxation: objective -2.083523e-03, 0 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      -0.0020835   -0.00208  0.00%     -    0s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: -0.00208352 0.000893247 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -2.083522736673e-03, best bound -2.083522736673e-03, gap 0.0000%

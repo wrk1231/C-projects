@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wrk/Documents/C++_environment/readfile_test/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+math.h
+-
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+

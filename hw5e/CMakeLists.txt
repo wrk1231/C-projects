@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.8)
+project(hw5e)
+set(CMAKE_CXX_STANDARD 11)
+include_directories("/Library/gurobi752/mac64/include")
+set(SOURCE_FILES main.cpp "/Library/gurobi752/mac64/include/gurobi_c++.h;/Library/gurobi752/mac64/include/gurobi_c.h")
+add_executable(hw5e ${SOURCE_FILES})
+target_link_libraries(hw5e "/Library/gurobi752/mac64/lib/libgurobi75.so;/Library/gurobi752/mac64/lib/libgurobi_c++.a")

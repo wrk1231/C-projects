@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wrk/Documents/C++_environment/hw5a/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+math.h
+-
+

@@ -1,0 +1,42 @@
+
+Gurobi 7.5.1 (mac64) logging started Sat Nov 25 14:12:30 2017
+
+Academic license - for non-commercial use only
+Optimize a model with 3 rows, 4 columns and 10 nonzeros
+Model has 3 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 9e+00]
+  Objective range  [2e+00, 7e+00]
+  QObjective range [2e+00, 2e+01]
+  Bounds range     [4e-01, 2e+01]
+  RHS range        [8e+00, 2e+01]
+Presolve removed 1 rows and 1 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 3 columns, 6 nonzeros
+Presolved model has 3 quadratic objective terms
+Ordering time: 0.00s
+
+Barrier statistics:
+ Free vars  : 1
+ AA' NZ     : 3.000e+00
+ Factor NZ  : 6.000e+00
+ Factor Ops : 1.400e+01 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   1.84352365e+05 -2.32293438e+05  1.05e+03 1.43e+02  8.05e+05     0s
+   1   1.14963999e+04 -8.01189370e+04  9.90e+01 1.36e+01  8.51e+04     0s
+   2   7.13509147e+02 -4.18205069e+04  9.90e-05 1.36e-05  6.08e+03     0s
+   3   6.54796942e+02 -5.88459765e+02  1.25e-06 1.72e-07  1.78e+02     0s
+   4   1.83313986e+02 -1.15088188e+02  1.25e-12 1.70e-13  4.26e+01     0s
+   5   6.01765461e+01  1.74461046e+01  1.33e-15 4.44e-16  6.10e+00     0s
+   6   3.91735768e+01  3.43777059e+01  4.44e-16 2.00e-15  6.85e-01     0s
+   7   3.58212232e+01  3.56069190e+01  4.44e-16 1.78e-15  3.06e-02     0s
+   8   3.56328404e+01  3.56326287e+01  2.00e-15 0.00e+00  3.03e-05     0s
+   9   3.56326532e+01  3.56326530e+01  0.00e+00 3.73e-16  3.03e-08     0s
+  10   3.56326531e+01  3.56326531e+01  1.11e-15 3.16e-16  3.03e-11     0s
+
+Barrier solved model in 10 iterations and 0.06 seconds
+Optimal objective 3.56326531e+01
+

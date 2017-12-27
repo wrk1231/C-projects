@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Library/gurobi752/mac64/include/gurobi_c++.h
+iostream
+-
+vector
+-
+string
+-
+gurobi_c.h
+/Library/gurobi752/mac64/include/gurobi_c.h
+
+/Library/gurobi752/mac64/include/gurobi_c.h
+stdio.h
+-
+
+/Users/wrk/Documents/C++_environment/hw5/main.cpp
+gurobi_c++.h
+/Users/wrk/Documents/C++_environment/hw5/gurobi_c++.h
+
